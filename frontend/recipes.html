@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>PantryPal Recipes</title>
+
+  <!-- Bootstrap -->
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+  />
+
+  <!-- Google 8bit Font -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="css/recipes.css" />
+</head>
+
+<body class="bg-light">
+
+  <div class="container py-4">
+
+    <!-- Header -->
+    <div class="d-flex justify-content-between align-items-center mb-5">
+      <h3 class="logo">Pantry Pal</h3>
+      <div class="health-bar">❤️❤️❤️❤️❤️</div>
+    </div>
+
+    <!-- Title -->
+    <h1 class="main-title text-center mb-5">
+      What’s Cooking Tonight?
+    </h1>
+
+    <!-- Cuisine Filter -->
+    <div class="text-center mb-4">
+      <div class="btn-group flex-wrap">
+        <button class="btn cuisine-btn" data-cuisine="">All</button>
+        <button class="btn cuisine-btn" data-cuisine="Mexican">Mexican</button>
+        <button class="btn cuisine-btn" data-cuisine="Indian">Indian</button>
+        <button class="btn cuisine-btn" data-cuisine="Chinese">Chinese</button>
+        <button class="btn cuisine-btn" data-cuisine="Vietnamese">Vietnamese</button>
+        <button class="btn cuisine-btn" data-cuisine="Japanese">Japanese</button>
+        <button class="btn cuisine-btn" data-cuisine="American">American</button>
+      </div>
+    </div>
+
+    <!-- Search -->
+    <div class="row justify-content-center mb-5">
+      <div class="col-md-6">
+        <input
+          type="text"
+          id="searchInput"
+          class="form-control"
+          placeholder="Search recipes..."
+        />
+      </div>
+    </div>
+
+    <!-- Recipe Grid -->
+    <div class="row g-4" id="recipeContainer"></div>
+
+    <!-- Add Recipe Form -->
+    <div class="card mt-5 p-4">
+      <h5 class="mb-3">Add Recipe</h5>
+      <form id="addRecipeForm" class="row g-3">
+        <div class="col-md-4">
+          <input class="form-control" name="title" placeholder="Title" required />
+        </div>
+        <div class="col-md-4">
+          <input class="form-control" name="cuisine" placeholder="Cuisine" required />
+        </div>
+        <div class="col-md-4">
+          <input class="form-control" name="imageUrl" placeholder="Image URL" />
+        </div>
+
+        <div class="col-12">
+          <input
+            class="form-control"
+            name="ingredients"
+            placeholder="Comma separated ingredients"
+            required
+          />
+        </div>
+
+        <div class="col-12">
+          <textarea
+            class="form-control"
+            name="description"
+            placeholder="Description"
+          ></textarea>
+        </div>
+
+        <div class="col-12">
+          <button class="btn btn-success">Add Recipe</button>
+        </div>
+      </form>
+    </div>
+
+  </div>
+
+  <script type="module" src="js/recipes.js"></script>
+</body>
+</html>

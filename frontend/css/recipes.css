@@ -1,0 +1,107 @@
+body {
+  background: linear-gradient(
+    135deg,
+    #0f2027,
+    #203a43,
+    #2c5364
+  );
+  min-height: 100vh;
+  color: #f1f1f1;
+}
+
+.logo {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 14px;
+  color: #2fa6a1;
+}
+
+.main-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 24px;
+  color: #2fa6a1;
+}
+
+.cuisine-btn {
+  background-color: #4db6ac;
+  color: white;
+  border-radius: 25px;
+  margin: 5px;
+}
+
+.cuisine-btn:hover {
+  background-color: #2fa6a1;
+}
+
+.recipe-card img {
+  height: 220px;
+  object-fit: cover;
+}
+
+.badge-status {
+  border-radius: 20px;
+  padding: 6px 14px;
+  font-weight: 500;
+}
+
+.ready {
+  background-color: #38b000;
+  color: white;
+}
+
+.warning {
+  background-color: #2fa6a1;
+  color: white;
+}
+
+.missing {
+  background-color: #eb5757;
+  color: white;
+}
+
+.health-bar {
+  font-size: 20px;
+}
+
+.recipe-card {
+  overflow: hidden;
+}
+
+/* Delete button styling */
+.delete-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+
+  width: 28px;
+  height: 28px;
+
+  border-radius: 50%;
+  border: none;
+
+  background-color: #eb5757;
+  color: white;
+
+  font-size: 14px;
+  font-weight: bold;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  cursor: pointer;
+
+  opacity: 0;
+  transform: scale(0.8);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+/* Show on hover */
+.recipe-card:hover .delete-btn {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* Subtle hover effect */
+.delete-btn:hover {
+  background-color: #c0392b;
+}
