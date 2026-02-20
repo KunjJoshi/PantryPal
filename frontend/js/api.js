@@ -1,29 +1,61 @@
+import { getToken, clearSession } from "./session.js";
+
+const request = async (url, options = {}) => {
+  const token = getToken();
+  const headers = {
+    ...(options.headers || {}),
+  };
+
+  if (token) {
+    headers.Authorization = `Bearer ${token}`;
+  }
+
+  const response = await fetch(url, { ...options, headers });
+  let payload = null;
+
+  try {
+    payload = await response.json();
+  } catch (error) {
+    payload = null;
+  }
+
+  if (!response.ok) {
+    if (response.status === 401) {
+      clearSession();
+      const path = window.location.pathname;
+      if (path.endsWith("/pantry.html") || path.endsWith("/recipes.html")) {
+        window.location.href = "login.html";
+      }
+    }
+    const message = payload?.error || `Request failed: ${response.status}`;
+    throw new Error(message);
+  }
+
+  return payload;
+};
+
 export const api = {
   get: async (url) => {
-    const res = await fetch(url);
-    return res.json();
+    return request(url);
   },
 
   post: async (url, data) => {
-    const res = await fetch(url, {
+    return request(url, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(data)
+      body: JSON.stringify(data),
     });
-    return res.json();
   },
 
   put: async (url, data) => {
-    const res = await fetch(url, {
+    return request(url, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(data)
+      body: JSON.stringify(data),
     });
-    return res.json();
   },
 
   delete: async (url) => {
-    const res = await fetch(url, { method: "DELETE" });
-    return res.json();
-  }
+    return request(url, { method: "DELETE" });
+  },
 };

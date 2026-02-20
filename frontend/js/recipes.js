@@ -1,4 +1,10 @@
 import { api } from "./api.js";
+import { requireSession, updateAuthNav } from "./session.js";
+
+if (!requireSession()) {
+  throw new Error("Authentication required");
+}
+updateAuthNav();
 
 const container = document.getElementById("recipeContainer");
 const searchInput = document.getElementById("searchInput");

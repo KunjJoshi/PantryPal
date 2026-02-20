@@ -1,4 +1,7 @@
 import { api } from "./api.js";
+import { updateAuthNav } from "./session.js";
+
+updateAuthNav();
 
 const renderHearts = (count, maxHearts) => {
   const full = "\u2665".repeat(count);
@@ -22,7 +25,7 @@ const refreshHealthBars = async () => {
     });
   } catch (error) {
     healthBars.forEach((bar) => {
-      bar.textContent = "Pantry Health: unavailable";
+      bar.textContent = "Pantry Health: sign in to view";
     });
     console.error("Failed to load pantry health:", error);
   }

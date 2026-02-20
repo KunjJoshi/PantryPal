@@ -1,7 +1,9 @@
 import express from "express";
 import { getCollection, toObjectId, toPublicDoc } from "../db/myMongoDB.js";
+import { requireAuth } from "../middleware/auth.js";
 
 const router = express.Router();
+router.use(requireAuth);
 
 const toTitleCase = (value) =>
   String(value)
@@ -28,6 +30,7 @@ router.get("/", async (req, res) => {
     const limit = Math.min(50, Math.max(1, Number(req.query.limit) || 9));
 
     const query = {};
+    query.userId = req.user._id.toString();
 
     if (cuisine) {
       query.cuisine = cuisine;
@@ -39,7 +42,7 @@ router.get("/", async (req, res) => {
 
     const [recipes, pantry] = await Promise.all([
       recipesCollection.find(query).sort({ createdAt: -1 }).toArray(),
-      pantryCollection.find({}).toArray(),
+      pantryCollection.find({ userId: req.user._id.toString() }).toArray(),
     ]);
 
     const pantryNames = pantry.map((p) => p.name.toLowerCase());
@@ -108,6 +111,7 @@ router.post("/", async (req, res) => {
     const ingredients = normalizeIngredients(req.body.ingredients);
 
     const newRecipe = {
+      userId: req.user._id.toString(),
       title: toTitleCase(req.body.title),
       cuisine: String(req.body.cuisine).trim(),
       ingredients,
@@ -148,7 +152,7 @@ router.put("/:id", async (req, res) => {
     updateFields.updatedAt = new Date();
 
     const result = await recipesCollection.findOneAndUpdate(
-      { _id: objectId },
+      { _id: objectId, userId: req.user._id.toString() },
       { $set: updateFields },
       { returnDocument: "after" }
     );
@@ -170,7 +174,10 @@ router.delete("/:id", async (req, res) => {
 
     if (!objectId) return res.status(400).json({ error: "Invalid id" });
 
-    const result = await recipesCollection.deleteOne({ _id: objectId });
+    const result = await recipesCollection.deleteOne({
+      _id: objectId,
+      userId: req.user._id.toString(),
+    });
 
     if (!result.deletedCount) return res.status(404).json({ error: "Not found" });
 

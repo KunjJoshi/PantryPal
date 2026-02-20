@@ -1,4 +1,10 @@
 import { api } from "./api.js";
+import { requireSession, updateAuthNav } from "./session.js";
+
+if (!requireSession()) {
+  throw new Error("Authentication required");
+}
+updateAuthNav();
 
 const pantryList = document.getElementById("pantryList");
 const addPantryForm = document.getElementById("addPantryForm");

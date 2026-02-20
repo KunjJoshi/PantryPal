@@ -8,6 +8,10 @@ PantryPal is a food inventory and recipe-matching web app that helps users answe
 - Ricky Lee
 - Tarun Badarvada
 
+## Class Link
+
+- Add class link here
+
 ## Project Objective
 
 PantryPal helps users track pantry ingredients and match those ingredients against recipes.
@@ -66,35 +70,91 @@ The app is designed to reduce food waste, improve meal planning, and make it eas
 - `db/` - MongoDB connection logic
 - `config/` - environment/config loading
 
-## Run Locally
+## Getting Started
 
-1. Install dependencies:
+### Prerequisites
+
+- Node.js >= 18
+- Docker Desktop (for local MongoDB), or MongoDB Atlas (for deployment)
+
+### Installation
 
 ```bash
+git clone https://github.com/notrickhere/PantryPal.git
+cd PantryPal
 npm install
 ```
 
-2. Configure environment variables in `.env` (or copy from `.env.example`):
+### Environment Variables
+
+Copy `.env.example` to `.env` and configure one of these options.
+
+Option A: Atlas / hosted MongoDB (recommended for deployment)
 
 ```env
+PORT=3000
+MONGODB_URI=mongodb+srv://<username>:<password>@<cluster-url>/pantryPal?retryWrites=true&w=majority
+MONGODB_DB_NAME=pantryPal
+```
+
+Option B: Local MongoDB (Docker)
+
+```env
+PORT=3000
 MONGODB_HOST=localhost
 MONGODB_PORT=27017
 MONGODB_USER=your_mongo_username
 MONGODB_PASSWORD=your_mongo_password
 MONGODB_AUTH_SOURCE=admin
+MONGODB_DB_NAME=pantryPal
 ```
 
-3. Start the app:
+### Running Locally (Docker MongoDB)
+
+```bash
+npm run mongo:up
+npm run seed:db
+npm run dev
+```
+
+`npm run seed:db` loads data from `seeding_data/recipe.json` (recipes) and `seeding_data/ingredient.json` (pantry items).
+
+### Running Locally (Atlas)
+
+```bash
+npm run seed:db
+npm run dev
+```
+
+`npm run seed:db` loads data from `seeding_data/recipe.json` (recipes) and `seeding_data/ingredient.json` (pantry items).
+
+### Production Start
 
 ```bash
 npm start
 ```
 
-4. Open in browser:
+Open in browser:
 
 - `http://localhost:3000/`
 - `http://localhost:3000/recipes.html`
 - `http://localhost:3000/pantry.html`
+
+## How You Run Now
+
+Local Docker dev:
+
+```bash
+npm run mongo:up
+npm run seed:db
+npm run dev
+```
+
+Atlas dev/deploy style:
+
+1. Put Atlas URI in `.env` (`MONGODB_URI=...`)
+2. `npm run seed:db` (optional if DB is empty)
+3. `npm run dev` (or `npm start` in production)
 
 ## Design Mockups / Figma
 
