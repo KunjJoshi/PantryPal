@@ -5,7 +5,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node node_modules/nodemon/bin/nodemon.js backend.js",
+    "dev": "node node_modules/nodemon/bin/nodemon.js backend.js",
+    "start": "node backend.js",
+    "seed:db": "node scripts/seedDb.js",
+    "mongo:up": "docker compose up -d mongo",
+    "mongo:down": "docker compose down",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

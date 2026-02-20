@@ -32,11 +32,6 @@ body {
   background-color: #2fa6a1;
 }
 
-.recipe-card img {
-  height: 220px;
-  object-fit: cover;
-}
-
 .badge-status {
   border-radius: 20px;
   padding: 6px 14px;

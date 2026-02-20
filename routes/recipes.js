@@ -3,6 +3,22 @@ import { getCollection, toObjectId, toPublicDoc } from "../db/myMongoDB.js";
 
 const router = express.Router();
 
+const toTitleCase = (value) =>
+  String(value)
+    .trim()
+    .toLowerCase()
+    .replace(/\b([a-z])/g, (match) => match.toUpperCase());
+
+const normalizeIngredients = (ingredients) =>
+  (Array.isArray(ingredients)
+    ? ingredients
+    : String(ingredients)
+        .split(",")
+        .map((i) => i.trim())
+  )
+    .map((i) => toTitleCase(i))
+    .filter(Boolean);
+
 router.get("/", async (req, res) => {
   try {
     const recipesCollection = await getCollection("recipes");
@@ -44,6 +60,21 @@ router.get("/", async (req, res) => {
       return { ...toPublicDoc(recipe), status };
     });
 
+    const statusOrder = {
+      "Ready To Make": 0,
+      "Missing 1-2 Ingredients": 1,
+      "Missing Several Ingredients": 2,
+    };
+
+    matched.sort((a, b) => {
+      const aRank = statusOrder[a.status] ?? 99;
+      const bRank = statusOrder[b.status] ?? 99;
+      if (aRank !== bRank) return aRank - bRank;
+      return String(a.title || "").localeCompare(String(b.title || ""), "en", {
+        sensitivity: "base",
+      });
+    });
+
     const totalItems = matched.length;
     const totalPages = Math.max(1, Math.ceil(totalItems / limit));
     const safePage = Math.min(page, totalPages);
@@ -74,21 +105,13 @@ router.post("/", async (req, res) => {
       return res.status(400).json({ error: "title, cuisine, ingredients are required" });
     }
 
-    const ingredients = Array.isArray(req.body.ingredients)
-      ? req.body.ingredients.map((i) => String(i).trim()).filter(Boolean)
-      : String(req.body.ingredients)
-          .split(",")
-          .map((i) => i.trim())
-          .filter(Boolean);
+    const ingredients = normalizeIngredients(req.body.ingredients);
 
     const newRecipe = {
-      title: String(req.body.title).trim(),
+      title: toTitleCase(req.body.title),
       cuisine: String(req.body.cuisine).trim(),
       ingredients,
       description: req.body.description ? String(req.body.description).trim() : "",
-      imageUrl: req.body.imageUrl
-        ? String(req.body.imageUrl).trim()
-        : "https://via.placeholder.com/400",
       createdAt: new Date(),
       updatedAt: new Date(),
     };
@@ -113,19 +136,13 @@ router.put("/:id", async (req, res) => {
 
     const updateFields = {};
 
-    if (req.body.title !== undefined) updateFields.title = String(req.body.title).trim();
+    if (req.body.title !== undefined) updateFields.title = toTitleCase(req.body.title);
     if (req.body.cuisine !== undefined) updateFields.cuisine = String(req.body.cuisine).trim();
     if (req.body.description !== undefined) {
       updateFields.description = String(req.body.description).trim();
     }
-    if (req.body.imageUrl !== undefined) updateFields.imageUrl = String(req.body.imageUrl).trim();
     if (req.body.ingredients !== undefined) {
-      updateFields.ingredients = Array.isArray(req.body.ingredients)
-        ? req.body.ingredients.map((i) => String(i).trim()).filter(Boolean)
-        : String(req.body.ingredients)
-            .split(",")
-            .map((i) => i.trim())
-            .filter(Boolean);
+      updateFields.ingredients = normalizeIngredients(req.body.ingredients);
     }
 
     updateFields.updatedAt = new Date();

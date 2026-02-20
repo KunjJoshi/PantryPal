@@ -40,27 +40,19 @@ const renderRecipes = (recipes) => {
     col.className = "col-md-6 col-lg-4";
 
     col.innerHTML = `
-        <div class="card recipe-card shadow-sm position-relative">
-            
-            <button class="delete-btn"
-            onclick="deleteRecipe('${recipe.id}')">
-            ✕
-            </button>
+      <div class="card recipe-card shadow-sm position-relative">
+        <button class="delete-btn" onclick="deleteRecipe('${recipe.id}')">&times;</button>
 
-            <img src="${recipe.imageUrl}" class="card-img-top" />
+        <div class="card-body">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <h5 class="card-title">${recipe.title}</h5>
+            <span class="badge-status ${badgeClass(recipe.status)}">${recipe.status}</span>
+          </div>
 
-            <div class="card-body">
-            <div class="d-flex justify-content-between align-items-center mb-2">
-                <h5 class="card-title">${recipe.title}</h5>
-                <span class="badge-status ${badgeClass(recipe.status)}">
-                ${recipe.status}
-                </span>
-            </div>
-
-            <p class="card-text">${recipe.description}</p>
-            </div>
+          <p class="card-text">${recipe.description || ""}</p>
         </div>
-        `;
+      </div>
+    `;
 
     container.appendChild(col);
   });
@@ -84,30 +76,27 @@ window.deleteRecipe = async (id) => {
   document.dispatchEvent(new Event("recipes:changed"));
 };
 
-document
-  .getElementById("addRecipeForm")
-  .addEventListener("submit", async (e) => {
-    e.preventDefault();
+document.getElementById("addRecipeForm").addEventListener("submit", async (e) => {
+  e.preventDefault();
 
-    const form = new FormData(e.target);
+  const form = new FormData(e.target);
 
-    const recipe = {
-      title: form.get("title"),
-      cuisine: form.get("cuisine"),
-      ingredients: form
-        .get("ingredients")
-        .split(",")
-        .map((i) => i.trim()),
-      description: form.get("description"),
-      imageUrl: form.get("imageUrl")
-    };
+  const recipe = {
+    title: form.get("title"),
+    cuisine: form.get("cuisine"),
+    ingredients: form
+      .get("ingredients")
+      .split(",")
+      .map((i) => i.trim()),
+    description: form.get("description"),
+  };
 
-    await api.post("/api/recipes", recipe);
-    currentPage = 1;
-    e.target.reset();
-    await loadRecipes();
-    document.dispatchEvent(new Event("recipes:changed"));
-  });
+  await api.post("/api/recipes", recipe);
+  currentPage = 1;
+  e.target.reset();
+  await loadRecipes();
+  document.dispatchEvent(new Event("recipes:changed"));
+});
 
 searchInput.addEventListener("input", () => {
   currentPage = 1;
