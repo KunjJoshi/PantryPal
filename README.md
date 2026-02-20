@@ -222,6 +222,14 @@ npm run dev
 
 ![PantryPal Recipes](images/recipe.png)
 
+## Public Narrated Video
+
+- https://youtu.be/y73dlNldrF4
+
+## Presentation Slides
+
+- https://docs.google.com/presentation/d/1YARnww7ucw2h2lt7X6ZeDj8z5UcAxPsePixYgYuIvEg/edit?usp=sharing
+
 ## License
 
 MIT
