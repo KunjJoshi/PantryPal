@@ -166,12 +166,12 @@ Open in browser:
 2. Clone your fork and install dependencies.
 3. Copy `.env.example` to `.env`.
 4. Ensure your local Docker values are:
-`MONGODB_HOST=localhost`
-`MONGODB_PORT=27017`
-`MONGODB_USER=<your_local_mongo_user>`
-`MONGODB_PASSWORD=<your_local_mongo_password>`
-`MONGODB_AUTH_SOURCE=admin`
-`MONGODB_DB_NAME=pantryPal`
+   `MONGODB_HOST=localhost`
+   `MONGODB_PORT=27017`
+   `MONGODB_USER=<your_local_mongo_user>`
+   `MONGODB_PASSWORD=<your_local_mongo_password>`
+   `MONGODB_AUTH_SOURCE=admin`
+   `MONGODB_DB_NAME=pantryPal`
 5. Start MongoDB and run the app:
 
 ```bash
@@ -181,6 +181,7 @@ npm run dev
 ```
 
 6. Open:
+
 - `http://localhost:3000/`
 - `http://localhost:3000/recipes.html`
 - `http://localhost:3000/pantry.html`
@@ -202,6 +203,10 @@ npm run dev
 ## Design Mockups / Figma
 
 - [Figma Mockups](https://www.figma.com/design/fQcS5LSeXn5y0WDAYr943l/PantryPal?node-id=0-1&t=mJRrqOvgDaDxhZ7Z-1)
+
+![PantryPal Home Mockup](images/fig_home.png)
+
+![PantryPal Recipe Mockup](images/fig_recipe.png)
 
 ## Screenshot
 
