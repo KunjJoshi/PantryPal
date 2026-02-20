@@ -1,7 +1,7 @@
 {
-  "name": "nodeexpressmongoes6",
+  "name": "pantrypal",
   "version": "1.0.0",
-  "description": "Example",
+  "description": "Pantry Pal app",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/notrickhere/NODEEXPRESSES6_apartmentlisting.git"
+    "url": "git+ssh://git@github.com/notrickhere/PantryPal.git"
   },
   "keywords": [],
   "author": "Ricky Lee",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/notrickhere/NODEEXPRESSES6_apartmentlisting/issues"
+    "url": "https://github.com/notrickhere/PantryPal/issues"
   },
-  "homepage": "https://github.com/notrickhere/NODEEXPRESSES6_apartmentlisting#readme",
+  "homepage": "https://github.com/notrickhere/PantryPal#readme",
   "dependencies": {
     "express": "^5.2.1",
     "mongodb": "^7.1.0",
