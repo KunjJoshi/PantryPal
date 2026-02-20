@@ -10,7 +10,12 @@ PantryPal is a food inventory and recipe-matching web app that helps users answe
 
 ## Class Link
 
-- Add class link here
+- https://johnguerra.co/classes/webDevelopment_online_spring_2026/
+
+## Project Links
+
+- Deployment: https://pantrypal-agqy.onrender.com
+- GitHub: https://github.com/notrickhere/PantryPal
 
 ## Project Objective
 
@@ -26,7 +31,7 @@ The app is designed to reduce food waste, improve meal planning, and make it eas
 - Missing 1-2 ingredients
 - Missing several ingredients
 - Add, edit, and delete recipes
-- Pantry Health concept (planned): indicates how many recipes can be cooked in the next 7 days
+- Pantry Healthbar
 
 ## User Personas
 
@@ -65,10 +70,15 @@ The app is designed to reduce food waste, improve meal planning, and make it eas
 ## Project Structure
 
 - `backend.js` - Express server entry point
-- `routes/` - API routes (`recipes`, `pantry`)
-- `frontend/` - static frontend pages and JavaScript
-- `db/` - MongoDB connection logic
 - `config/` - environment/config loading
+- `db/` - MongoDB connection logic
+- `middleware/` - shared middleware (authentication)
+- `routes/` - API routes (`auth`, `recipes`, `pantry`, `health`)
+- `frontend/` - static client files
+- `frontend/js/` - client-side modules (`api`, `session`, `login`, `recipes`, `pantry`, `health`)
+- `frontend/css/` - page and shared styles
+- `seeding_data/` - seed JSON files (`recipe.json`, `ingredient.json`)
+- `scripts/` - utility scripts (`seedDb.js`)
 
 ## Getting Started
 
@@ -78,6 +88,16 @@ The app is designed to reduce food waste, improve meal planning, and make it eas
 - Docker Desktop (for local MongoDB), or MongoDB Atlas (for deployment)
 
 ### Installation
+
+If you forked this repo, clone your fork URL instead:
+
+```bash
+git clone https://github.com/<your-username>/PantryPal.git
+cd PantryPal
+npm install
+```
+
+Or clone the original repo:
 
 ```bash
 git clone https://github.com/notrickhere/PantryPal.git
@@ -103,8 +123,8 @@ Option B: Local MongoDB (Docker)
 PORT=3000
 MONGODB_HOST=localhost
 MONGODB_PORT=27017
-MONGODB_USER=your_mongo_username
-MONGODB_PASSWORD=your_mongo_password
+MONGODB_USER=<your_local_mongo_user>
+MONGODB_PASSWORD=<your_local_mongo_password>
 MONGODB_AUTH_SOURCE=admin
 MONGODB_DB_NAME=pantryPal
 ```
@@ -140,9 +160,19 @@ Open in browser:
 - `http://localhost:3000/recipes.html`
 - `http://localhost:3000/pantry.html`
 
-## How You Run Now
+## Run After Forking (Docker MongoDB)
 
-Local Docker dev:
+1. Fork this repository on GitHub.
+2. Clone your fork and install dependencies.
+3. Copy `.env.example` to `.env`.
+4. Ensure your local Docker values are:
+   `MONGODB_HOST=localhost`
+   `MONGODB_PORT=27017`
+   `MONGODB_USER=<your_local_mongo_user>`
+   `MONGODB_PASSWORD=<your_local_mongo_password>`
+   `MONGODB_AUTH_SOURCE=admin`
+   `MONGODB_DB_NAME=pantryPal`
+5. Start MongoDB and run the app:
 
 ```bash
 npm run mongo:up
@@ -150,17 +180,47 @@ npm run seed:db
 npm run dev
 ```
 
-Atlas dev/deploy style:
+6. Open:
 
-1. Put Atlas URI in `.env` (`MONGODB_URI=...`)
-2. `npm run seed:db` (optional if DB is empty)
-3. `npm run dev` (or `npm start` in production)
+- `http://localhost:3000/`
+- `http://localhost:3000/recipes.html`
+- `http://localhost:3000/pantry.html`
+
+## Original JS Functionality
+
+- Frontend: Vanilla JavaScript using ES6 modules. The UI is built with semantic HTML5 and custom CSS.
+- Backend: Node.js and Express.js, deployed as a web service on Render.
+- Database: MongoDB Atlas is used for cloud-based persistence of user accounts, pantry items, and recipes.
+- State Management: Custom asynchronous logic with the Fetch API performs CRUD operations between client and backend API routes.
+- Deployment: The project is developed locally with Docker MongoDB and deployed publicly using Render + MongoDB Atlas.
+
+## GenAI Tool Usage
+
+- Used GenAI assistance for implementation support, debugging, and refactoring in frontend and backend modules.
+- Used GenAI to help shape and validate seed-data formatting for recipes and pantry items.
+- Final integration, manual testing, and deployment configuration were verified in the actual project environment.
 
 ## Design Mockups / Figma
 
 - [Figma Mockups](https://www.figma.com/design/fQcS5LSeXn5y0WDAYr943l/PantryPal?node-id=0-1&t=mJRrqOvgDaDxhZ7Z-1)
 
-## Screenshot
+## Screenshots
+
+![PantryPal Home Mockup](images/fig_home.png)
+
+![PantryPal Recipe Mockup](images/fig_recipe.png)
+
+### Home
+
+![PantryPal Home](images/home.png)
+
+### Pantry
+
+![PantryPal Pantry](images/ingredients.png)
+
+### Recipes
+
+![PantryPal Recipes](images/recipe.png)
 
 ## License
 
