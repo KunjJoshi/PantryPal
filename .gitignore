@@ -40,3 +40,5 @@ Thumbs.db
 
 # package manager local state
 .npm/
+
+images/
