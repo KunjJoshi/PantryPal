@@ -1,62 +1,62 @@
-import { MongoClient } from "mongodb";
+import "../config/loadEnv.js";
+import { MongoClient, ObjectId } from "mongodb";
 
-function MyMongoDB({
-  dbName = "pantryPal",
-  collectionName = "recipes",
-  defaultUri,
-} = {}) {
-  const me = {};
-  const mongoHost = process.env.MONGODB_HOST;
-  const mongoPort = process.env.MONGODB_PORT || "27017";
-  const mongoUser = process.env.MONGODB_USER;
-  const mongoPass = process.env.MONGODB_PASSWORD;
-  const mongoAuthSource = process.env.MONGODB_AUTH_SOURCE || "admin";
+const mongoHost = process.env.MONGODB_HOST;
+const mongoPort = process.env.MONGODB_PORT || "27017";
+const mongoUser = process.env.MONGODB_USER;
+const mongoPass = process.env.MONGODB_PASSWORD;
+const mongoAuthSource = process.env.MONGODB_AUTH_SOURCE || "admin";
+const dbName = process.env.MONGODB_DB_NAME || process.env.DB_NAME || "pantryPal";
 
-  const fallbackUri =
-    defaultUri ||
-    (mongoHost && mongoUser && mongoPass
-      ? `mongodb://${encodeURIComponent(mongoUser)}:${encodeURIComponent(
-          mongoPass
-        )}@${mongoHost}:${mongoPort}/${dbName}?authSource=${mongoAuthSource}`
-      : null);
+const fallbackUri =
+  mongoHost && mongoUser && mongoPass
+    ? `mongodb://${encodeURIComponent(mongoUser)}:${encodeURIComponent(
+        mongoPass
+      )}@${mongoHost}:${mongoPort}/${dbName}?authSource=${mongoAuthSource}`
+    : null;
 
-  const URI = process.env.MONGODB_URI || fallbackUri;
+const URI = process.env.MONGODB_URI || process.env.MONGO_URI || fallbackUri;
 
-  if (!URI) {
-    throw new Error(
-      "Missing MongoDB config. Set MONGODB_URI or set MONGODB_HOST, MONGODB_USER, and MONGODB_PASSWORD in .env."
-    );
-  }
-
-  const connect = async () => {
-    console.log("Connecting to MongoDB at URI:", URI);
-    const client = new MongoClient(URI, { serverSelectionTimeoutMS: 5000 });
-    await client.connect();
-    const collection = client.db(dbName).collection(collectionName);
-    return { client, collection };
-  };
-
-  me.getListings = async (query = {}, pageSize = 20, page = 0) => {
-    const { client, collection } = await connect();
-
-    try {
-      const data = await collection
-        .find(query)
-        .limit(pageSize)
-        .skip(page * pageSize)
-        .toArray();
-      console.log(`Fetched ${collectionName} from MongoDB:`, data);
-      return data;
-    } catch (error) {
-      console.error(`Error fetching ${collectionName}:`, error);
-      throw error;
-    } finally {
-      await client.close();
-    }
-  };
-
-  return me;
+if (!URI) {
+  throw new Error(
+    "Missing MongoDB config. Set MONGODB_URI/MONGO_URI or set MONGODB_HOST, MONGODB_USER, and MONGODB_PASSWORD in .env."
+  );
 }
 
-const myMongoDB = MyMongoDB(); // Singleton instance for the app
-export default myMongoDB;
+let client;
+let db;
+
+const getDb = async () => {
+  if (db) return db;
+
+  client = new MongoClient(URI, { serverSelectionTimeoutMS: 5000 });
+  await client.connect();
+  db = client.db(dbName);
+  return db;
+};
+
+const getCollection = async (collectionName) => {
+  const activeDb = await getDb();
+  return activeDb.collection(collectionName);
+};
+
+const toPublicDoc = (doc) => {
+  if (!doc) return doc;
+  const { _id, ...rest } = doc;
+  return { id: _id.toString(), ...rest };
+};
+
+const toObjectId = (id) => {
+  if (!ObjectId.isValid(id)) return null;
+  return new ObjectId(id);
+};
+
+const closeConnection = async () => {
+  if (client) {
+    await client.close();
+    client = undefined;
+    db = undefined;
+  }
+};
+
+export { getCollection, toPublicDoc, toObjectId, closeConnection };
