@@ -1,0 +1,5528 @@
+[
+  {
+    "title": "Spicy Garlic Chicken Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Rice",
+      "Garlic",
+      "Ginger",
+      "Garam Masala",
+      "Onions"
+    ],
+    "description": "A fiery variation of classic chicken biryani infused with garlic and aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Street-Style Beef Pho",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Beef",
+      "Rice Noodles",
+      "Star Anise",
+      "Cinnamon",
+      "Onions",
+      "Fish Sauce"
+    ],
+    "description": "A bold, aromatic pho inspired by Vietnamese street vendors with rich broth and tender beef.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Honey Sesame Teriyaki Chicken",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken Thighs",
+      "Soy Sauce",
+      "Honey",
+      "Sesame Seeds",
+      "Ginger",
+      "Garlic"
+    ],
+    "description": "A sweet and savory teriyaki chicken enhanced with honey and toasted sesame seeds.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Creamy Tomato Masala Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Tomatoes",
+      "Cream",
+      "Garam Masala",
+      "Garlic",
+      "Onions",
+      "Butter"
+    ],
+    "description": "A rich masala curry with a velvety tomato base and warm Indian spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Crispy Tempura Udon Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Udon Noodles",
+      "Tempura Shrimp",
+      "Dashi Broth",
+      "Green Onions",
+      "Soy Sauce"
+    ],
+    "description": "A comforting udon noodle soup topped with crispy golden tempura shrimp.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Smoky Chipotle Beef Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Beef",
+      "Chipotle Peppers",
+      "Corn Tortillas",
+      "Onions",
+      "Cilantro"
+    ],
+    "description": "Tender beef simmered in smoky chipotle sauce served in warm corn tortillas.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Lemongrass Stir-Fry",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Chicken",
+      "Lemongrass",
+      "Sweet Chili Sauce",
+      "Bell Peppers",
+      "Garlic"
+    ],
+    "description": "A fragrant stir-fry combining sweet chili heat with bright lemongrass flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Ginger Soy Glazed Salmon Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Salmon", "Soy Sauce", "Ginger", "Rice", "Green Onions"],
+    "description": "A savory salmon bowl glazed with ginger and soy, served over steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Fire-Roasted Chicken Enchiladas",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Tortillas",
+      "Enchilada Sauce",
+      "Cheese",
+      "Onions"
+    ],
+    "description": "Tender chicken wrapped in tortillas and baked with smoky fire-roasted enchilada sauce.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak Bites",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Garlic", "Butter", "Parsley", "Salt"],
+    "description": "Juicy seared steak bites tossed in rich garlic butter and herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sichuan Chili Oil Dumplings",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Dumplings",
+      "Chili Oil",
+      "Garlic",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "Soft dumplings drenched in spicy Sichuan chili oil with garlic and soy.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Ramen",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Ramen Noodles",
+      "Coconut Milk",
+      "Curry Paste",
+      "Chicken",
+      "Lime"
+    ],
+    "description": "A fusion ramen with creamy coconut curry broth and tender chicken.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tamarind Glazed Pork Banh Mi",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Pork",
+      "Tamarind",
+      "Baguette",
+      "Pickled Carrots",
+      "Cilantro"
+    ],
+    "description": "A tangy tamarind-glazed pork banh mi with crisp pickled vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Creamy Chipotle Chicken Pasta",
+    "cuisine": "American",
+    "ingredients": ["Chicken", "Pasta", "Chipotle Peppers", "Cream", "Garlic"],
+    "description": "A smoky chipotle cream sauce tossed with pasta and tender chicken pieces.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Soy Garlic Wings",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken Wings", "Soy Sauce", "Garlic", "Sugar", "Ginger"],
+    "description": "Crispy wings coated in a sticky sweet soy garlic glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lime Cilantro Chicken Tacos",
+    "cuisine": "Mexican",
+    "ingredients": ["Chicken", "Lime", "Cilantro", "Tortillas", "Onions"],
+    "description": "Bright and zesty tacos filled with lime-marinated chicken and fresh cilantro.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Butter Masala Paneer",
+    "cuisine": "Indian",
+    "ingredients": ["Paneer", "Tomatoes", "Cream", "Butter", "Spices"],
+    "description": "Soft paneer cubes simmered in a creamy butter masala sauce.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Five-Spice Crispy Pork Belly",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork Belly",
+      "Five-Spice Powder",
+      "Soy Sauce",
+      "Garlic",
+      "Salt"
+    ],
+    "description": "A crackling Chinese-style pork belly seasoned with aromatic five-spice and roasted to perfection.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemon Pepper Grilled Chicken",
+    "cuisine": "American",
+    "ingredients": [
+      "Chicken Breast",
+      "Lemon",
+      "Black Pepper",
+      "Olive Oil",
+      "Garlic"
+    ],
+    "description": "A bright and zesty grilled chicken seasoned with lemon pepper and fresh garlic.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Red Curry Coconut Shrimp",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Shrimp",
+      "Red Curry Paste",
+      "Coconut Milk",
+      "Garlic",
+      "Lime"
+    ],
+    "description": "A creamy and spicy shrimp curry simmered in coconut milk with bright citrus notes.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sesame Ginger Beef Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Sesame Oil", "Ginger", "Garlic", "Bell Peppers"],
+    "description": "A quick stir-fry with tender beef, sesame, and fragrant ginger-garlic aromatics.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Creamy Spinach Artichoke Pasta",
+    "cuisine": "American",
+    "ingredients": ["Pasta", "Spinach", "Artichokes", "Cream", "Parmesan"],
+    "description": "A rich pasta dish with creamy spinach artichoke sauce and melted parmesan cheese.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tandoori Spiced Grilled Wings",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken Wings",
+      "Yogurt",
+      "Tandoori Masala",
+      "Garlic",
+      "Lemon"
+    ],
+    "description": "Crispy grilled wings marinated in tangy yogurt and bold tandoori spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Rice Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Carrots",
+      "Sweet Potato",
+      "Tempura Batter",
+      "Rice",
+      "Soy Sauce"
+    ],
+    "description": "Crispy tempura vegetables served over warm rice with a light soy drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Street Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Flank Steak",
+      "Lime",
+      "Cilantro",
+      "Corn Tortillas",
+      "Onions"
+    ],
+    "description": "Classic street-style tacos with marinated grilled steak and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Shrimp Scampi",
+    "cuisine": "American",
+    "ingredients": ["Shrimp", "Garlic", "Butter", "Parsley", "Lemon"],
+    "description": "A buttery shrimp scampi bursting with garlic and bright lemon flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet and Sour Pineapple Chicken",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Pineapple", "Bell Peppers", "Vinegar", "Sugar"],
+    "description": "A tangy sweet and sour chicken dish with juicy pineapple and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Black Pepper Beef Udon",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Beef",
+      "Udon Noodles",
+      "Black Pepper",
+      "Soy Sauce",
+      "Onions"
+    ],
+    "description": "A savory Japanese stir-fry with thick udon noodles and tender beef coated in black pepper sauce.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Crispy Orange Chicken",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Orange Zest",
+      "Soy Sauce",
+      "Garlic",
+      "Cornstarch"
+    ],
+    "description": "Crispy fried chicken tossed in a sweet and tangy orange glaze with aromatic citrus notes.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Grilled Lime Shrimp Tacos",
+    "cuisine": "Mexican",
+    "ingredients": ["Shrimp", "Lime", "Cilantro", "Corn Tortillas", "Cabbage"],
+    "description": "Bright and refreshing tacos filled with lime-marinated grilled shrimp and crunchy cabbage slaw.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Butter Garlic Naan Pizza",
+    "cuisine": "Indian",
+    "ingredients": ["Naan", "Garlic", "Butter", "Cheese", "Tomatoes"],
+    "description": "A fusion naan pizza topped with garlic butter, melted cheese, and fresh tomatoes.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Soy Glazed Meatballs",
+    "cuisine": "American",
+    "ingredients": [
+      "Ground Beef",
+      "Soy Sauce",
+      "Brown Sugar",
+      "Garlic",
+      "Ginger"
+    ],
+    "description": "Tender meatballs coated in a sticky sweet soy glaze with hints of garlic and ginger.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chicken Vermicelli Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Chicken",
+      "Lemongrass",
+      "Vermicelli Noodles",
+      "Fish Sauce",
+      "Cucumbers"
+    ],
+    "description": "A refreshing noodle bowl topped with lemongrass-marinated chicken and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Gochujang Honey Chicken Wings",
+    "cuisine": "American",
+    "ingredients": [
+      "Chicken Wings",
+      "Gochujang",
+      "Honey",
+      "Garlic",
+      "Sesame Seeds"
+    ],
+    "description": "Crispy wings tossed in a spicy-sweet gochujang honey glaze with toasted sesame seeds.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Kung Pao Shrimp Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Peanuts", "Chilies", "Soy Sauce", "Garlic"],
+    "description": "A spicy stir-fry with shrimp, crunchy peanuts, and bold Sichuan flavors.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Crispy Chicken Katsu Curry",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken Cutlet",
+      "Curry Sauce",
+      "Rice",
+      "Onions",
+      "Carrots"
+    ],
+    "description": "A golden fried chicken cutlet served with rich Japanese curry over steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tandoori Paneer Wrap",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Paneer",
+      "Tandoori Masala",
+      "Yogurt",
+      "Tortilla",
+      "Onions"
+    ],
+    "description": "A fusion wrap filled with smoky tandoori paneer, onions, and creamy yogurt sauce.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Chili Ramen Stir-Fry",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Ramen Noodles",
+      "Garlic",
+      "Chili Paste",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A spicy garlic-forward ramen stir-fry tossed in a savory chili soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Crispy Honey Lemon Chicken",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Honey", "Lemon", "Cornstarch", "Garlic"],
+    "description": "Crispy fried chicken coated in a bright honey lemon sauce with a hint of garlic.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Lime Steak Burrito",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Chipotle Peppers", "Lime", "Rice", "Tortilla"],
+    "description": "A hearty burrito filled with chipotle-lime marinated steak, rice, and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Butter Garlic Shrimp Masala",
+    "cuisine": "Indian",
+    "ingredients": ["Shrimp", "Butter", "Garlic", "Tomatoes", "Cream"],
+    "description": "A rich masala dish featuring shrimp simmered in buttery garlic tomato gravy.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Sushi Roll",
+    "cuisine": "Japanese",
+    "ingredients": ["Shrimp Tempura", "Rice", "Nori", "Cucumber", "Soy Sauce"],
+    "description": "A crunchy sushi roll filled with crispy tempura shrimp and fresh vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Beef Rice Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Beef", "Lemongrass", "Fish Sauce", "Rice", "Cucumbers"],
+    "description": "A fragrant lemongrass-marinated beef dish served over warm jasmine rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "BBQ Bacon Cheddar Burger",
+    "cuisine": "American",
+    "ingredients": ["Ground Beef", "Bacon", "Cheddar", "BBQ Sauce", "Buns"],
+    "description": "A smoky BBQ burger stacked with crispy bacon and melted cheddar cheese.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Cashew Chicken",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Cashews",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy cashew chicken stir-fry with crunchy nuts and vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Caramelized Pork Rice Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Pork", "Sugar", "Fish Sauce", "Garlic", "Rice"],
+    "description": "A savory-sweet Vietnamese-style caramelized pork served over steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Mango Chicken Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Mango",
+      "Chili Powder",
+      "Tortillas",
+      "Cilantro"
+    ],
+    "description": "A tropical twist on tacos with spicy chicken and fresh mango salsa.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Herb Roasted Chicken",
+    "cuisine": "American",
+    "ingredients": ["Chicken", "Garlic", "Rosemary", "Thyme", "Butter"],
+    "description": "A classic roasted chicken infused with garlic and fresh herbs for deep, comforting flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Ginger Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Ginger",
+      "Sweet Chili Sauce",
+      "Bell Peppers",
+      "Garlic"
+    ],
+    "description": "A vibrant stir-fry combining sweet chili heat with aromatic ginger and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Crispy Pork Katsu Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Pork Cutlet",
+      "Panko",
+      "Rice",
+      "Cabbage",
+      "Tonkatsu Sauce"
+    ],
+    "description": "A crunchy pork katsu served over rice with shredded cabbage and savory tonkatsu sauce.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tandoori Chicken Rice Plate",
+    "cuisine": "Indian",
+    "ingredients": ["Chicken", "Tandoori Masala", "Yogurt", "Rice", "Lemon"],
+    "description": "A bold tandoori-marinated chicken served over fragrant basmati rice with fresh lemon.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Caramelized Onion Smash Burger",
+    "cuisine": "American",
+    "ingredients": ["Ground Beef", "Onions", "Cheese", "Buns", "Butter"],
+    "description": "A juicy smash burger topped with deeply caramelized onions and melted cheese.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Basil Chicken Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Basil", "Garlic", "Chilies", "Soy Sauce"],
+    "description": "A fragrant stir-fry with spicy chilies, fresh basil, and tender chicken pieces.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Pho",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Shrimp",
+      "Rice Noodles",
+      "Lemongrass",
+      "Fish Sauce",
+      "Onions"
+    ],
+    "description": "A bright and aromatic pho featuring lemongrass-infused broth and tender shrimp.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Quesadilla",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Cheese",
+      "Tortillas",
+      "Onions"
+    ],
+    "description": "A smoky chipotle chicken quesadilla with melted cheese and sautéed onions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Bowl",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Coconut Milk",
+      "Curry Paste",
+      "Potatoes",
+      "Carrots",
+      "Peas"
+    ],
+    "description": "A creamy coconut curry packed with tender vegetables and warm spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Rice Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A sweet and savory teriyaki beef served over warm steamed rice with ginger undertones.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Parmesan Crusted Chicken",
+    "cuisine": "American",
+    "ingredients": [
+      "Chicken Breast",
+      "Parmesan",
+      "Garlic",
+      "Breadcrumbs",
+      "Butter"
+    ],
+    "description": "A crispy parmesan-crusted chicken baked with garlic and butter for a rich, savory finish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Soy Ginger Salmon",
+    "cuisine": "Japanese",
+    "ingredients": ["Salmon", "Soy Sauce", "Ginger", "Brown Sugar", "Garlic"],
+    "description": "A tender salmon fillet glazed with sweet soy and fresh ginger, baked to perfection.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Kung Pao Chicken Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Peanuts", "Chilies", "Noodles", "Garlic"],
+    "description": "A noodle-based twist on classic Kung Pao chicken with bold Sichuan flavors and crunchy peanuts.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tandoori Spiced Salmon",
+    "cuisine": "Indian",
+    "ingredients": ["Salmon", "Tandoori Masala", "Yogurt", "Lemon", "Garlic"],
+    "description": "A vibrant tandoori-marinated salmon baked with aromatic spices and fresh lemon juice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Crispy Tempura Chicken Donburi",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken",
+      "Tempura Batter",
+      "Rice",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "Crispy tempura chicken served over rice with a light soy drizzle and fresh scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Vietnamese Garlic Butter Noodles",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Noodles", "Butter", "Garlic", "Green Onions", "Soy Sauce"],
+    "description": "A rich and savory noodle dish tossed in garlic butter with Vietnamese-style seasoning.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Burrito Bowl",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Rice",
+      "Corn",
+      "Black Beans"
+    ],
+    "description": "A smoky chipotle-marinated chicken bowl with rice, beans, and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Herb Butter Steak",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Garlic", "Butter", "Rosemary", "Salt"],
+    "description": "A juicy pan-seared steak basted in garlic herb butter for a rich, aromatic finish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Rice",
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Eggs",
+      "Green Peas"
+    ],
+    "description": "A sweet and mildly spicy fried rice dish with tender chicken and vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Pork Banh Mi",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Pork",
+      "Lemongrass",
+      "Baguette",
+      "Pickled Carrots",
+      "Cilantro"
+    ],
+    "description": "A fragrant lemongrass-marinated pork banh mi with crisp pickled vegetables and herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Beef Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Beef",
+      "Garlic",
+      "Chili Paste",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A bold stir-fry with tender beef, spicy chili paste, and fragrant garlic.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Crispy Chicken Teriyaki Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "Crispy chicken glazed in sweet teriyaki sauce served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chili Chicken",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Chicken", "Lemongrass", "Chilies", "Garlic", "Fish Sauce"],
+    "description": "A fragrant Vietnamese chicken dish with spicy chilies and bright lemongrass flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle BBQ Chicken Sandwich",
+    "cuisine": "American",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "BBQ Sauce",
+      "Buns",
+      "Onions"
+    ],
+    "description": "A smoky chipotle-infused BBQ chicken sandwich with caramelized onions on a toasted bun.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet and Spicy Cashew Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Cashews",
+      "Chili Sauce",
+      "Garlic",
+      "Bell Peppers"
+    ],
+    "description": "A crunchy cashew chicken stir-fry with a sweet and spicy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chicken Ramen",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Ramen Noodles",
+      "Coconut Milk",
+      "Curry Paste",
+      "Chicken",
+      "Lime"
+    ],
+    "description": "A fusion ramen with creamy coconut curry broth and tender chicken slices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak Fried Rice",
+    "cuisine": "American",
+    "ingredients": ["Rice", "Steak", "Garlic", "Butter", "Eggs"],
+    "description": "A rich fried rice dish with seared steak and aromatic garlic butter.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tandoori Chicken Wrap",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Tandoori Masala",
+      "Yogurt",
+      "Tortilla",
+      "Onions"
+    ],
+    "description": "A fusion wrap filled with smoky tandoori chicken and fresh onions in a soft tortilla.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Crispy Tempura Vegetable Udon",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Udon Noodles",
+      "Tempura Vegetables",
+      "Dashi Broth",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting udon soup topped with crispy tempura vegetables and savory broth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Burrito",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Beans", "Tortilla", "Cilantro"],
+    "description": "A hearty burrito filled with marinated carne asada, rice, beans, and fresh cilantro.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Garlic Noodles",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Noodles",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A sweet and mildly spicy noodle dish tossed in garlic and chili sauce for a bold flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Stir-Fry",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Soy Sauce", "Sugar", "Ginger", "Vegetables"],
+    "description": "A classic teriyaki stir-fry with tender chicken and crisp vegetables in a sweet soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Pork Vermicelli",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Pork",
+      "Lemongrass",
+      "Vermicelli Noodles",
+      "Fish Sauce",
+      "Cucumbers"
+    ],
+    "description": "A refreshing noodle bowl topped with lemongrass-marinated pork and fresh vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Soft Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Onions",
+      "Cilantro"
+    ],
+    "description": "Soft tacos filled with smoky chipotle-marinated chicken and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Shrimp Pasta",
+    "cuisine": "American",
+    "ingredients": ["Shrimp", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta dish with shrimp sautéed in garlic butter and tossed with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Basil Beef Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Basil", "Garlic", "Chilies", "Soy Sauce"],
+    "description": "A fragrant stir-fry with spicy chilies, fresh basil, and tender beef slices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Soup",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Coconut Milk",
+      "Curry Paste",
+      "Potatoes",
+      "Carrots",
+      "Peas"
+    ],
+    "description": "A creamy coconut curry soup filled with tender vegetables and warm spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Donburi",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Green Onions",
+      "Dashi"
+    ],
+    "description": "A comforting rice bowl topped with crispy shrimp tempura and savory broth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Nachos",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortilla Chips", "Cheese", "Jalapeños", "Salsa"],
+    "description": "Loaded nachos topped with marinated carne asada, melted cheese, and fresh salsa.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Soy Glazed Chicken",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Soy Sauce", "Brown Sugar", "Garlic", "Ginger"],
+    "description": "A sticky sweet soy glaze coats tender chicken pieces in this comforting dish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Chili Beef Ramen",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Beef",
+      "Ramen Noodles",
+      "Garlic",
+      "Chili Paste",
+      "Soy Sauce"
+    ],
+    "description": "A bold ramen stir-fry with tender beef, garlic, and spicy chili paste for deep flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Ginger Chicken Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Ginger", "Garlic", "Soy Sauce", "Bell Peppers"],
+    "description": "A sweet and aromatic stir-fry with ginger-forward flavor and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Crispy Chicken Tempura Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken",
+      "Tempura Batter",
+      "Rice",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "Crispy tempura chicken served over warm rice with a light soy drizzle and scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tandoori Spiced Paneer Curry",
+    "cuisine": "Indian",
+    "ingredients": ["Paneer", "Tandoori Masala", "Tomatoes", "Cream", "Garlic"],
+    "description": "A creamy paneer curry infused with smoky tandoori spices and rich tomato gravy.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Rice Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Cilantro", "Lime", "Onions"],
+    "description": "A hearty rice bowl topped with marinated carne asada and fresh cilantro-lime toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Shrimp Udon",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp",
+      "Udon Noodles",
+      "Garlic",
+      "Butter",
+      "Green Onions"
+    ],
+    "description": "A rich and savory udon dish tossed in garlic butter with tender shrimp and scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Pork Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Onions"
+    ],
+    "description": "A sweet and mildly spicy pork stir-fry with crisp vegetables and garlic-forward flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chicken Banh Mi",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Chicken",
+      "Lemongrass",
+      "Baguette",
+      "Pickled Carrots",
+      "Cilantro"
+    ],
+    "description": "A fragrant lemongrass-marinated chicken banh mi with crisp pickled vegetables and herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Steak Quesadilla",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Steak",
+      "Chipotle Peppers",
+      "Cheese",
+      "Tortillas",
+      "Onions"
+    ],
+    "description": "A smoky chipotle steak quesadilla with melted cheese and sautéed onions for extra richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Herb Chicken Pasta",
+    "cuisine": "American",
+    "ingredients": ["Chicken", "Pasta", "Garlic", "Butter", "Parsley"],
+    "description": "A comforting pasta dish with garlic herb chicken tossed in a buttery sauce.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Garlic Chicken Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Green Onions"
+    ],
+    "description": "A sweet and mildly spicy chicken bowl tossed in garlic chili sauce over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Glazed Salmon Rice Plate",
+    "cuisine": "Japanese",
+    "ingredients": ["Salmon", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A tender salmon fillet glazed in sweet teriyaki sauce served over steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chili Pork",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Pork", "Lemongrass", "Chilies", "Garlic", "Fish Sauce"],
+    "description": "A fragrant Vietnamese pork dish with spicy chilies and bright lemongrass aromatics.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Nachos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Tortilla Chips",
+      "Cheese",
+      "Jalapeños"
+    ],
+    "description": "Loaded nachos topped with smoky chipotle chicken, melted cheese, and fresh jalapeños.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Herb Roasted Potatoes and Steak",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Potatoes", "Garlic", "Rosemary", "Butter"],
+    "description": "A hearty steak plate served with crispy garlic herb roasted potatoes and melted butter.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Basil Shrimp Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Basil", "Garlic", "Chilies", "Soy Sauce"],
+    "description": "A fragrant stir-fry with spicy chilies, fresh basil, and tender shrimp pieces.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Lentil Soup",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Lentils",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry soup simmered with tender lentils and aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Chicken Udon Soup",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken Tempura",
+      "Udon Noodles",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A warm udon soup topped with crispy chicken tempura and savory broth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Tostadas",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tostada Shells", "Lettuce", "Cheese", "Salsa"],
+    "description": "Crispy tostadas topped with marinated carne asada and fresh toppings for a crunchy bite.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Soy Garlic Shrimp",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Soy Sauce", "Garlic", "Brown Sugar", "Ginger"],
+    "description": "A sticky sweet soy glaze coats tender shrimp in this comforting stir-fry dish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Garlic",
+      "Chili Paste",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A fiery garlic-forward chicken stir-fry with spicy chili paste and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Soba Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Soba Noodles", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A savory soba noodle bowl topped with tender teriyaki beef and fresh scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chicken Rice Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Chicken", "Lemongrass", "Garlic", "Fish Sauce", "Rice"],
+    "description": "A fragrant lemongrass-marinated chicken dish served over warm jasmine rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Pork Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Pork",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Onions",
+      "Cilantro"
+    ],
+    "description": "Smoky chipotle-marinated pork served in warm tortillas with fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak Pasta",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Pasta", "Garlic", "Butter", "Parsley"],
+    "description": "A rich pasta dish with seared steak tossed in a buttery garlic sauce and herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Shrimp Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Shrimp",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Onions"
+    ],
+    "description": "A sweet and mildly spicy shrimp stir-fry with crisp vegetables and garlic-forward flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chicken Bowl",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry chicken dish served over rice with warm aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Donburi",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting rice bowl topped with crispy vegetable tempura and savory broth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Fries",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "French Fries", "Cheese", "Salsa", "Cilantro"],
+    "description": "Crispy fries loaded with marinated carne asada, melted cheese, and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Soy Glazed Chicken",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Soy Sauce", "Garlic", "Brown Sugar", "Ginger"],
+    "description": "A sticky sweet soy glaze coats tender chicken pieces in this comforting stir-fry dish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Pork Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Garlic",
+      "Chili Paste",
+      "Soy Sauce",
+      "Bell Peppers"
+    ],
+    "description": "A bold stir-fry with tender pork, spicy chili paste, and fragrant garlic.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Soba Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Soba Noodles", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A savory soba noodle bowl topped with sweet teriyaki chicken and fresh scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Rice Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Shrimp", "Lemongrass", "Garlic", "Fish Sauce", "Rice"],
+    "description": "A fragrant lemongrass-marinated shrimp dish served over warm jasmine rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Steak Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Steak",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Onions",
+      "Cilantro"
+    ],
+    "description": "Smoky chipotle-marinated steak served in warm tortillas with fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Chicken Pasta",
+    "cuisine": "American",
+    "ingredients": ["Chicken", "Pasta", "Garlic", "Butter", "Parsley"],
+    "description": "A comforting pasta dish with garlic butter chicken tossed in a rich, savory sauce.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Beef Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Beef",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Onions"
+    ],
+    "description": "A sweet and mildly spicy beef stir-fry with crisp vegetables and garlic-forward flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Shrimp Bowl",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Shrimp",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry shrimp dish served over rice with warm aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Chicken Bento",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A classic bento box featuring crispy chicken tempura and savory rice sides.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Soft Tacos",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortillas", "Cilantro", "Onions", "Lime"],
+    "description": "Soft tacos filled with marinated carne asada and bright cilantro-lime toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Soy Beef Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Soy Sauce", "Garlic", "Brown Sugar", "Ginger"],
+    "description": "A sticky sweet soy glaze coats tender beef in this comforting stir-fry dish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Shrimp",
+      "Garlic",
+      "Chili Paste",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A fiery garlic-forward shrimp stir-fry with spicy chili paste and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Glazed Chicken Donburi",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A sweet and savory teriyaki chicken bowl served over warm steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Beef Pho",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Beef",
+      "Lemongrass",
+      "Rice Noodles",
+      "Fish Sauce",
+      "Onions"
+    ],
+    "description": "A fragrant pho with lemongrass-infused broth and tender slices of beef.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Burrito",
+    "cuisine": "Mexican",
+    "ingredients": ["Chicken", "Chipotle Peppers", "Rice", "Beans", "Tortilla"],
+    "description": "A smoky chipotle-marinated chicken burrito packed with rice, beans, and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak Bowl",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Garlic", "Butter", "Rice", "Parsley"],
+    "description": "A rich steak bowl tossed in garlic butter and served over warm rice with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Noodles",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Noodles",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle dish with tender chicken and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Bowl",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Coconut Milk",
+      "Curry Paste",
+      "Potatoes",
+      "Carrots",
+      "Peas"
+    ],
+    "description": "A creamy coconut curry bowl filled with tender vegetables and warm spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Bento Box",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A classic bento featuring crispy shrimp tempura with savory rice and sides.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Quesadilla",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Cheese", "Tortillas", "Onions", "Cilantro"],
+    "description": "A cheesy quesadilla stuffed with marinated carne asada and sautéed onions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Pork Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Pork", "Garlic", "Ginger", "Soy Sauce", "Bell Peppers"],
+    "description": "A savory pork stir-fry with aromatic garlic, ginger, and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Beef Noodles",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A bold noodle stir-fry with tender beef, spicy chili paste, and fragrant garlic.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Udon Stir-Fry",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Udon Noodles", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A sweet and savory teriyaki chicken stir-fry tossed with thick udon noodles.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Pork Pho",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Pork",
+      "Lemongrass",
+      "Rice Noodles",
+      "Fish Sauce",
+      "Onions"
+    ],
+    "description": "A fragrant pho with lemongrass-infused broth and tender slices of pork.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Rice Bowl",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Rice",
+      "Corn",
+      "Black Beans"
+    ],
+    "description": "A smoky chipotle-marinated chicken bowl with rice, beans, and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Shrimp Pasta Bowl",
+    "cuisine": "American",
+    "ingredients": ["Shrimp", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta bowl with shrimp sautéed in garlic butter and tossed with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Pork Noodles",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Noodles",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle dish with tender pork and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chickpea Bowl",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chickpeas",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry bowl with tender chickpeas and warm aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Bento",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A classic bento featuring crispy vegetable tempura with savory rice and sides.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Burrito Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Beans", "Corn", "Cilantro"],
+    "description": "A hearty burrito-style bowl topped with marinated carne asada and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Chicken Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Ginger", "Soy Sauce", "Bell Peppers"],
+    "description": "A savory chicken stir-fry with aromatic garlic, ginger, and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Noodles",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A fiery noodle stir-fry with tender chicken, garlic, and spicy chili paste for bold flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Udon Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Udon Noodles", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A savory udon noodle bowl topped with sweet teriyaki beef and fresh scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chicken Pho",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Chicken",
+      "Lemongrass",
+      "Rice Noodles",
+      "Fish Sauce",
+      "Onions"
+    ],
+    "description": "A bright and aromatic pho with lemongrass-infused broth and tender chicken slices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Pork Burrito",
+    "cuisine": "Mexican",
+    "ingredients": ["Pork", "Chipotle Peppers", "Rice", "Beans", "Tortilla"],
+    "description": "A smoky chipotle-marinated pork burrito packed with rice, beans, and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Salmon Plate",
+    "cuisine": "American",
+    "ingredients": ["Salmon", "Garlic", "Butter", "Lemon", "Parsley"],
+    "description": "A rich garlic butter salmon fillet served with herbs and a squeeze of lemon for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Shrimp Noodles",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Shrimp",
+      "Noodles",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle dish with tender shrimp and crisp vegetables tossed together.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Potato Bowl",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Potatoes",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry bowl with tender potatoes simmered in aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Chicken Sushi Roll",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken Tempura", "Rice", "Nori", "Cucumber", "Soy Sauce"],
+    "description": "A crunchy sushi roll filled with crispy chicken tempura and fresh vegetables for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Taco Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Corn", "Black Beans", "Cilantro"],
+    "description": "A taco-inspired bowl topped with marinated carne asada and fresh toppings for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Shrimp Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Garlic", "Ginger", "Soy Sauce", "Bell Peppers"],
+    "description": "A savory shrimp stir-fry with aromatic garlic, ginger, and crisp vegetables tossed together.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Pork Noodles",
+    "cuisine": "Chinese",
+    "ingredients": ["Pork", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A bold noodle stir-fry with tender pork, spicy chili paste, and fragrant garlic.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Salmon Stir-Fry",
+    "cuisine": "Japanese",
+    "ingredients": ["Salmon", "Soy Sauce", "Sugar", "Ginger", "Vegetables"],
+    "description": "A sweet and savory teriyaki salmon stir-fry tossed with crisp vegetables and ginger.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Vermicelli",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Shrimp",
+      "Lemongrass",
+      "Vermicelli Noodles",
+      "Fish Sauce",
+      "Cucumbers"
+    ],
+    "description": "A refreshing noodle bowl topped with lemongrass-marinated shrimp and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Steak Burrito",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Chipotle Peppers", "Rice", "Beans", "Tortilla"],
+    "description": "A smoky chipotle-marinated steak burrito packed with rice, beans, and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Chicken Skillet",
+    "cuisine": "American",
+    "ingredients": ["Chicken", "Garlic", "Butter", "Parsley", "Lemon"],
+    "description": "A rich skillet-cooked chicken dish basted in garlic butter and finished with herbs and lemon.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Beef Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Beef",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy beef bowl served over warm rice with crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chicken Soup",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry soup simmered with tender chicken and aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Udon Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Udon Noodles",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting udon noodle bowl topped with crispy shrimp tempura and savory broth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Enchiladas",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Steak",
+      "Tortillas",
+      "Enchilada Sauce",
+      "Cheese",
+      "Onions"
+    ],
+    "description": "Tender carne asada wrapped in tortillas and baked with rich enchilada sauce and cheese.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Beef Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory beef bowl with aromatic garlic, ginger, and a rich soy-based glaze served over rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Noodles",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A fiery noodle stir-fry with tender shrimp, garlic, and spicy chili paste for bold flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Bento Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A sweet and savory teriyaki chicken bowl served with rice and fresh scallions in bento style.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Pork Rice Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Pork", "Lemongrass", "Garlic", "Fish Sauce", "Rice"],
+    "description": "A fragrant lemongrass-marinated pork dish served over warm jasmine rice with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Enchiladas",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Enchilada Sauce",
+      "Cheese"
+    ],
+    "description": "Smoky chipotle chicken wrapped in tortillas and baked with rich enchilada sauce and cheese.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak Tips",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Garlic", "Butter", "Parsley", "Salt"],
+    "description": "Tender steak tips seared and tossed in rich garlic butter with fresh herbs for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy chicken bowl served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Shrimp Soup",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Shrimp",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry soup simmered with tender shrimp and aromatic spices for warmth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Udon Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Udon Noodles",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting udon bowl topped with crispy vegetable tempura and savory broth for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Soft Burrito",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Beans", "Tortilla", "Cilantro"],
+    "description": "A soft burrito filled with marinated carne asada, rice, beans, and fresh cilantro-lime toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Pork Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Pork", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory pork bowl with aromatic garlic, ginger, and a rich soy glaze served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Beef Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold beef bowl with spicy garlic chili sauce served over warm rice for a satisfying meal.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Sushi Roll",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Rice", "Nori", "Soy Sauce", "Cucumber"],
+    "description": "A fusion sushi roll filled with sweet teriyaki chicken and crisp cucumber slices for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Beef Vermicelli",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Beef",
+      "Lemongrass",
+      "Vermicelli Noodles",
+      "Fish Sauce",
+      "Cilantro"
+    ],
+    "description": "A refreshing noodle bowl topped with lemongrass-marinated beef and fresh herbs for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Shrimp Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Shrimp",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Cabbage",
+      "Lime"
+    ],
+    "description": "Smoky chipotle-marinated shrimp served in warm tortillas with crunchy cabbage and lime.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Pork Chops",
+    "cuisine": "American",
+    "ingredients": ["Pork Chops", "Garlic", "Butter", "Rosemary", "Salt"],
+    "description": "Juicy pork chops seared and basted in garlic butter with rosemary for a rich finish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Lettuce Wraps",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Lettuce",
+      "Carrots"
+    ],
+    "description": "A light and refreshing wrap with sweet chili chicken and crisp vegetables in lettuce cups.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Stir-Fry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Coconut Milk",
+      "Curry Paste",
+      "Carrots",
+      "Peas",
+      "Bell Peppers"
+    ],
+    "description": "A creamy coconut curry stir-fry loaded with tender vegetables and warm spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Chicken Rice Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Green Onions",
+      "Dashi"
+    ],
+    "description": "A comforting rice plate topped with crispy chicken tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Torta",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Bolillo Roll", "Lettuce", "Tomatoes", "Avocado"],
+    "description": "A hearty Mexican sandwich filled with marinated carne asada and fresh toppings on a soft roll.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Salmon Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Salmon", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory salmon bowl with aromatic garlic, ginger, and a rich soy glaze served over rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold chicken bowl tossed in spicy garlic chili sauce and served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Bento",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A classic bento-style dish featuring sweet teriyaki beef served with steamed rice and scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Salad",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Shrimp",
+      "Lemongrass",
+      "Lettuce",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing salad with lemongrass-marinated shrimp and crisp vegetables tossed in tangy dressing.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Tostadas",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Tostada Shells",
+      "Lettuce",
+      "Cheese"
+    ],
+    "description": "Crispy tostadas topped with smoky chipotle chicken and fresh toppings for a crunchy bite.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Shrimp Skillet",
+    "cuisine": "American",
+    "ingredients": ["Shrimp", "Garlic", "Butter", "Parsley", "Lemon"],
+    "description": "A rich skillet-cooked shrimp dish tossed in garlic butter and finished with herbs and lemon juice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Pork Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy pork bowl served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Lentil Bowl",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Lentils",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry bowl simmered with tender lentils and aromatic spices for warmth and comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Rice Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Green Onions",
+      "Dashi"
+    ],
+    "description": "A comforting rice bowl topped with crispy shrimp tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Flautas",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortillas", "Cheese", "Salsa", "Cilantro"],
+    "description": "Crispy rolled tortillas filled with marinated carne asada and served with fresh salsa and herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Chicken Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory chicken bowl with aromatic garlic, ginger, and a rich soy glaze served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold shrimp bowl tossed in spicy garlic chili sauce and served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Onigiri",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Rice", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A savory rice ball filled with sweet teriyaki chicken for a portable Japanese snack.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Pork Spring Rolls",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Pork",
+      "Lemongrass",
+      "Rice Paper",
+      "Lettuce",
+      "Vermicelli"
+    ],
+    "description": "Fresh spring rolls filled with lemongrass-marinated pork and crisp vegetables for a light meal.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Beef Quesadilla",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Beef",
+      "Chipotle Peppers",
+      "Cheese",
+      "Tortillas",
+      "Onions"
+    ],
+    "description": "A smoky chipotle beef quesadilla with melted cheese and sautéed onions for extra richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Chicken Bites",
+    "cuisine": "American",
+    "ingredients": ["Chicken", "Garlic", "Butter", "Parsley", "Salt"],
+    "description": "Tender chicken bites seared and tossed in rich garlic butter with herbs for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Shrimp Wraps",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Shrimp",
+      "Sweet Chili Sauce",
+      "Lettuce",
+      "Carrots",
+      "Cucumbers"
+    ],
+    "description": "A refreshing wrap with sweet chili shrimp and crisp vegetables in a soft tortilla or lettuce cup.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chickpea Soup",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chickpeas",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry soup simmered with chickpeas and aromatic spices for warmth and comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Sushi Roll",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Nori",
+      "Soy Sauce",
+      "Cucumber"
+    ],
+    "description": "A crunchy sushi roll filled with crispy tempura vegetables and fresh cucumber slices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Nacho Fries",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "French Fries", "Cheese", "Salsa", "Cilantro"],
+    "description": "Crispy fries loaded with marinated carne asada, melted cheese, and fresh toppings for a hearty snack.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Tofu Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Tofu", "Garlic", "Ginger", "Soy Sauce", "Bell Peppers"],
+    "description": "A savory tofu stir-fry with aromatic garlic, ginger, and crisp vegetables tossed in soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Beef Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold beef stir-fry tossed in spicy garlic chili sauce and served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Salmon Bento",
+    "cuisine": "Japanese",
+    "ingredients": ["Salmon", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A classic bento-style dish featuring sweet teriyaki salmon served with steamed rice and scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chicken Spring Rolls",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Chicken",
+      "Lemongrass",
+      "Rice Paper",
+      "Lettuce",
+      "Vermicelli"
+    ],
+    "description": "Fresh spring rolls filled with lemongrass-marinated chicken and crisp vegetables for a refreshing bite.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Shrimp Burrito",
+    "cuisine": "Mexican",
+    "ingredients": ["Shrimp", "Chipotle Peppers", "Rice", "Beans", "Tortilla"],
+    "description": "A smoky chipotle-marinated shrimp burrito packed with rice, beans, and fresh toppings for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Pork Bites",
+    "cuisine": "American",
+    "ingredients": ["Pork", "Garlic", "Butter", "Parsley", "Salt"],
+    "description": "Tender pork bites seared and tossed in rich garlic butter with herbs for a savory finish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Onions"
+    ],
+    "description": "A sweet and mildly spicy chicken stir-fry with crisp vegetables and garlic-forward flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Plate",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Coconut Milk",
+      "Curry Paste",
+      "Potatoes",
+      "Carrots",
+      "Peas"
+    ],
+    "description": "A creamy coconut curry plate filled with tender vegetables and warm aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Chicken Sushi Roll",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken Tempura", "Rice", "Nori", "Cucumber", "Soy Sauce"],
+    "description": "A crunchy sushi roll filled with crispy chicken tempura and fresh vegetables for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Taco Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortillas", "Cilantro", "Onions", "Lime"],
+    "description": "A classic taco plate featuring marinated carne asada with fresh cilantro-lime toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Shrimp Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory shrimp bowl with aromatic garlic, ginger, and a rich soy glaze served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Garlic",
+      "Chili Paste",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A fiery garlic-forward chicken stir-fry served with crisp vegetables and steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Rice Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A sweet and savory teriyaki beef bowl served over warm rice with fresh scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Noodle Salad",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Shrimp",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing noodle salad topped with lemongrass-marinated shrimp and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Soft Burrito",
+    "cuisine": "Mexican",
+    "ingredients": ["Chicken", "Chipotle Peppers", "Rice", "Beans", "Tortilla"],
+    "description": "A smoky chipotle-marinated chicken burrito wrapped with rice, beans, and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak and Veggies",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Garlic", "Butter", "Broccoli", "Carrots"],
+    "description": "A rich garlic butter steak plate served with sautéed vegetables for a hearty meal.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Pork Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Onions"
+    ],
+    "description": "A sweet and mildly spicy pork stir-fry with crisp vegetables and a glossy chili glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chicken Plate",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry chicken dish served with warm rice and aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Bento Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A classic bento plate featuring crispy shrimp tempura and savory rice sides.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Taco Trio",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortillas", "Cilantro", "Onions", "Lime"],
+    "description": "A trio of tacos filled with marinated carne asada and bright cilantro-lime toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Beef Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Garlic", "Ginger", "Soy Sauce", "Bell Peppers"],
+    "description": "A savory beef stir-fry with aromatic garlic, ginger, and crisp vegetables tossed in soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Shrimp",
+      "Garlic",
+      "Chili Paste",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A fiery shrimp stir-fry tossed in spicy garlic chili sauce and served with steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Udon Plate",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Udon Noodles", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A savory teriyaki chicken dish served over thick udon noodles with scallions and sesame seeds.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Beef Rice Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Beef", "Lemongrass", "Garlic", "Fish Sauce", "Rice"],
+    "description": "A fragrant lemongrass-marinated beef bowl served over warm jasmine rice with herbs and lime.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Pork Soft Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Pork",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Onions",
+      "Cilantro"
+    ],
+    "description": "Smoky chipotle-marinated pork served in warm tortillas with fresh cilantro and onions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Salmon Bowl",
+    "cuisine": "American",
+    "ingredients": ["Salmon", "Garlic", "Butter", "Rice", "Parsley"],
+    "description": "A rich garlic butter salmon fillet served over warm rice with herbs for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Noodle Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Noodles",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle stir-fry with tender chicken and crisp vegetables tossed together.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Shrimp Plate",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Shrimp",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry shrimp dish served with warm rice and aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Donburi Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting donburi bowl topped with crispy vegetable tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Burrito Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Beans", "Tortilla", "Cilantro"],
+    "description": "A hearty burrito plate filled with marinated carne asada, rice, beans, and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Pork Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Pork", "Garlic", "Ginger", "Soy Sauce", "Bell Peppers"],
+    "description": "A savory pork stir-fry with aromatic garlic, ginger, and crisp vegetables tossed in soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A fiery noodle bowl with tender chicken tossed in spicy garlic chili sauce and vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Salmon Rice Plate",
+    "cuisine": "Japanese",
+    "ingredients": ["Salmon", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A sweet and savory teriyaki salmon fillet served over warm rice with scallions and sesame seeds.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Pork Vermicelli Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Pork",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing vermicelli bowl topped with lemongrass-marinated pork and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Quesadilla",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Cheese",
+      "Tortillas",
+      "Onions"
+    ],
+    "description": "A smoky chipotle chicken quesadilla with melted cheese and sautéed onions for extra richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Shrimp Plate",
+    "cuisine": "American",
+    "ingredients": ["Shrimp", "Garlic", "Butter", "Parsley", "Lemon"],
+    "description": "A rich garlic butter shrimp dish served with herbs and a squeeze of lemon for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Beef Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Beef",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Rice"
+    ],
+    "description": "A sweet and mildly spicy beef bowl served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Soup",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Coconut Milk",
+      "Curry Paste",
+      "Potatoes",
+      "Carrots",
+      "Peas"
+    ],
+    "description": "A creamy coconut curry soup simmered with tender vegetables and aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Chicken Udon Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken Tempura",
+      "Udon Noodles",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting udon plate topped with crispy chicken tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Enchilada Plate",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Steak",
+      "Tortillas",
+      "Enchilada Sauce",
+      "Cheese",
+      "Onions"
+    ],
+    "description": "Tender carne asada wrapped in tortillas and baked with rich enchilada sauce and melted cheese.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Chicken Noodles",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Ginger", "Noodles", "Soy Sauce"],
+    "description": "A savory noodle dish with aromatic garlic, ginger, and tender chicken tossed in soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Beef Noodle Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A bold noodle plate with tender beef tossed in spicy garlic chili sauce and vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Sushi Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Rice", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A deconstructed sushi bowl featuring sweet teriyaki chicken over seasoned rice with vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Rice Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Shrimp", "Lemongrass", "Garlic", "Fish Sauce", "Rice"],
+    "description": "A fragrant lemongrass-marinated shrimp plate served over warm jasmine rice with herbs and lime.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Steak Taco Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Chipotle Peppers", "Rice", "Corn", "Black Beans"],
+    "description": "A smoky chipotle-marinated steak bowl with rice, beans, and fresh toppings for balance and heat.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Chicken Alfredo",
+    "cuisine": "American",
+    "ingredients": ["Chicken", "Garlic", "Butter", "Cream", "Pasta"],
+    "description": "A rich Alfredo pasta dish with garlic butter chicken tossed in a creamy sauce for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Shrimp Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Shrimp",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Onions"
+    ],
+    "description": "A sweet and mildly spicy shrimp stir-fry with crisp vegetables and a glossy chili glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chicken Noodles",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Coconut Milk",
+      "Curry Paste",
+      "Noodles",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry noodle dish with tender chicken and aromatic spices for warmth and comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Bento Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A bento-style bowl featuring crispy shrimp tempura served with savory rice and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Soft Taco Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortillas", "Cilantro", "Onions", "Lime"],
+    "description": "A classic taco plate featuring marinated carne asada with bright cilantro-lime toppings and onions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Beef Noodles",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Garlic", "Ginger", "Noodles", "Soy Sauce"],
+    "description": "A savory noodle dish with aromatic garlic, ginger, and tender beef tossed in a rich soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold chicken stir-fry tossed in spicy garlic chili sauce and served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Noodle Plate",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Udon Noodles", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A savory teriyaki beef dish served over thick udon noodles with scallions and sesame seeds.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chicken Vermicelli",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Chicken",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing vermicelli bowl topped with lemongrass-marinated chicken and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Shrimp Taco Plate",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Shrimp",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Cabbage",
+      "Lime"
+    ],
+    "description": "Smoky chipotle-marinated shrimp served in warm tortillas with crunchy cabbage and lime.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak Pasta",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta dish with seared steak tossed in garlic butter and finished with fresh herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Pork Rice Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy pork bowl served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Shrimp Noodles",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Shrimp",
+      "Coconut Milk",
+      "Curry Paste",
+      "Noodles",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry noodle dish with tender shrimp and aromatic spices for warmth and comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Bento Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A classic bento plate featuring crispy vegetable tempura and savory rice sides.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Rice Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Cilantro", "Onions", "Lime"],
+    "description": "A hearty rice bowl topped with marinated carne asada and bright cilantro-lime toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+
+  {
+    "title": "Spicy Garlic Pork Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Pork", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold pork stir-fry tossed in spicy garlic chili sauce and served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Shrimp Bento Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Shrimp", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A sweet and savory teriyaki shrimp bowl served with steamed rice and scallions for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Beef Salad Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Beef", "Lemongrass", "Lettuce", "Cucumbers", "Fish Sauce"],
+    "description": "A refreshing salad topped with lemongrass-marinated beef and crisp vegetables with tangy dressing.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Burrito Bowl",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Rice",
+      "Corn",
+      "Black Beans"
+    ],
+    "description": "A smoky chipotle-marinated chicken bowl with rice, beans, and fresh toppings for balance and heat.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Shrimp Pasta Bowl",
+    "cuisine": "American",
+    "ingredients": ["Shrimp", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta bowl with shrimp sautéed in garlic butter and tossed with herbs for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Onions"
+    ],
+    "description": "A sweet and mildly spicy chicken stir-fry with crisp vegetables and a glossy chili glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Noodles",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Coconut Milk",
+      "Curry Paste",
+      "Noodles",
+      "Carrots",
+      "Peas"
+    ],
+    "description": "A creamy coconut curry noodle dish loaded with tender vegetables and warm aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Donburi Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting donburi plate topped with crispy shrimp tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Quesadilla Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Cheese", "Tortillas", "Onions", "Cilantro"],
+    "description": "A cheesy quesadilla stuffed with marinated carne asada and sautéed onions for extra richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Pork Rice Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Pork", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory pork bowl with aromatic garlic, ginger, and a rich soy glaze served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Beef Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Beef",
+      "Garlic",
+      "Chili Paste",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A bold beef stir-fry tossed in spicy garlic chili sauce and served with steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Donburi Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A savory donburi bowl featuring sweet teriyaki chicken served over warm rice with scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Rice Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Shrimp", "Lemongrass", "Garlic", "Fish Sauce", "Rice"],
+    "description": "A fragrant lemongrass-marinated shrimp plate served with jasmine rice and fresh herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Pork Burrito Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Pork", "Chipotle Peppers", "Rice", "Beans", "Tortilla"],
+    "description": "A smoky chipotle-marinated pork burrito served with rice, beans, and fresh toppings for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Salmon Pasta",
+    "cuisine": "American",
+    "ingredients": ["Salmon", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta dish with seared salmon tossed in garlic butter and finished with fresh herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy chicken bowl served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Shrimp Stir-Fry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Shrimp",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry stir-fry with tender shrimp and aromatic spices for warmth and comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Rice Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A comforting rice plate topped with crispy vegetable tempura and savory sides for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Taco Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Corn", "Black Beans", "Cilantro"],
+    "description": "A hearty taco-inspired bowl topped with marinated carne asada and fresh toppings for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Chicken Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Ginger", "Soy Sauce", "Bell Peppers"],
+    "description": "A savory chicken stir-fry with aromatic garlic, ginger, and crisp vegetables tossed in soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Noodle Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A fiery noodle plate with tender shrimp tossed in spicy garlic chili sauce and vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Bento Plate",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A classic bento-style plate featuring sweet teriyaki beef served with warm rice and scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chicken Noodle Salad",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Chicken",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing noodle salad topped with lemongrass-marinated chicken and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Steak Soft Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Steak",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Onions",
+      "Cilantro"
+    ],
+    "description": "Smoky chipotle-marinated steak served in warm tortillas with onions and cilantro for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Pork Pasta",
+    "cuisine": "American",
+    "ingredients": ["Pork", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta dish with seared pork tossed in garlic butter and finished with fresh herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Shrimp Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Shrimp",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy shrimp bowl served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chicken Stir-Fry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry stir-fry with tender chicken and aromatic spices for warmth and comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Rice Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A comforting rice plate topped with crispy shrimp tempura and savory sides for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Burrito Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Corn", "Black Beans", "Cilantro"],
+    "description": "A hearty burrito-style bowl topped with marinated carne asada and fresh toppings for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Salmon Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Salmon", "Garlic", "Ginger", "Soy Sauce", "Bell Peppers"],
+    "description": "A savory salmon stir-fry with aromatic garlic, ginger, and crisp vegetables tossed in soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Rice Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold chicken plate tossed in spicy garlic chili sauce and served over warm steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Salmon Donburi",
+    "cuisine": "Japanese",
+    "ingredients": ["Salmon", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A savory donburi bowl featuring sweet teriyaki salmon served over warm rice with scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Pork Salad Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Pork", "Lemongrass", "Lettuce", "Cucumbers", "Fish Sauce"],
+    "description": "A refreshing salad bowl topped with lemongrass-marinated pork and crisp vegetables with tangy dressing.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Taco Plate",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Onions",
+      "Cilantro"
+    ],
+    "description": "Smoky chipotle-marinated chicken served in warm tortillas with onions and cilantro for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Shrimp Alfredo",
+    "cuisine": "American",
+    "ingredients": ["Shrimp", "Garlic", "Butter", "Cream", "Pasta"],
+    "description": "A rich Alfredo pasta dish with shrimp sautéed in garlic butter and tossed in creamy sauce.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Beef Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Beef",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Noodles",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle bowl with tender beef and crisp vegetables tossed together.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Plate",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Coconut Milk",
+      "Curry Paste",
+      "Potatoes",
+      "Carrots",
+      "Peas"
+    ],
+    "description": "A creamy coconut curry plate filled with tender vegetables and warm aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Chicken Donburi",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken Tempura",
+      "Rice",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting donburi bowl topped with crispy chicken tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Enchilada Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Enchilada Sauce", "Rice", "Cheese", "Onions"],
+    "description": "A hearty enchilada-style bowl topped with marinated carne asada and melted cheese.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Tofu Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Tofu", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory tofu bowl with aromatic garlic, ginger, and a rich soy glaze served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold shrimp stir-fry tossed in spicy garlic chili sauce and served over warm steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Bento Plate",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A classic bento-style plate featuring sweet teriyaki chicken served with warm rice and scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Beef Noodle Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Beef",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing noodle bowl topped with lemongrass-marinated beef and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Shrimp Enchilada Plate",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Shrimp",
+      "Chipotle Peppers",
+      "Enchilada Sauce",
+      "Tortillas",
+      "Cheese"
+    ],
+    "description": "A smoky chipotle shrimp enchilada plate baked with rich sauce and melted cheese for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Chicken Skillet Plate",
+    "cuisine": "American",
+    "ingredients": ["Chicken", "Garlic", "Butter", "Parsley", "Lemon"],
+    "description": "A rich garlic butter chicken skillet served with herbs and a squeeze of lemon for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Pork Noodle Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Noodles",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle stir-fry with tender pork and crisp vegetables tossed together.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Shrimp Plate",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Shrimp",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry shrimp plate served with warm rice and aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Donburi Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting donburi plate topped with crispy vegetable tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Taco Trio Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortillas", "Cilantro", "Onions", "Lime"],
+    "description": "A trio of tacos filled with marinated carne asada and bright cilantro-lime toppings for freshness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Beef Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory beef bowl with aromatic garlic, ginger, and a rich soy glaze served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Stir-Fry Noodles",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A fiery noodle stir-fry with tender chicken tossed in spicy garlic chili sauce and vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Sushi Roll Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Rice", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A deconstructed sushi roll bowl featuring sweet teriyaki beef over seasoned rice with vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Salad Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Shrimp",
+      "Lemongrass",
+      "Lettuce",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing salad bowl topped with lemongrass-marinated shrimp and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Rice Plate",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Rice",
+      "Corn",
+      "Black Beans"
+    ],
+    "description": "A smoky chipotle-marinated chicken plate served with rice, beans, and fresh toppings for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak Alfredo",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Garlic", "Butter", "Cream", "Pasta"],
+    "description": "A rich Alfredo pasta dish with seared steak tossed in garlic butter and creamy sauce for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Pork Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Noodles",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle bowl with tender pork and crisp vegetables tossed together.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chicken Rice Plate",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry chicken plate served with warm rice and aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Bento Box",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A classic bento box featuring crispy shrimp tempura served with savory rice and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Burrito Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortilla", "Rice", "Beans", "Cilantro"],
+    "description": "A hearty burrito plate filled with marinated carne asada, rice, beans, and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+
+  {
+    "title": "Spicy Garlic Beef Rice Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold beef bowl tossed in spicy garlic chili sauce and served over warm steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Salmon Bento Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Salmon", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A savory bento-style bowl featuring sweet teriyaki salmon served with warm rice and scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chicken Spring Roll Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Chicken",
+      "Lemongrass",
+      "Rice Paper",
+      "Lettuce",
+      "Vermicelli"
+    ],
+    "description": "Fresh spring rolls filled with lemongrass-marinated chicken and crisp vegetables for a light meal.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Pork Taco Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Pork", "Chipotle Peppers", "Rice", "Corn", "Black Beans"],
+    "description": "A smoky chipotle-marinated pork bowl with rice, beans, and fresh toppings for balance and heat.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Shrimp Pasta Plate",
+    "cuisine": "American",
+    "ingredients": ["Shrimp", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta plate with shrimp sautéed in garlic butter and tossed with herbs for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Noodle Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Noodles",
+      "Garlic",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle plate with tender chicken and crisp vegetables tossed together.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Beef Bowl",
+    "cuisine": "Indian",
+    "ingredients": ["Beef", "Coconut Milk", "Curry Paste", "Garlic", "Onions"],
+    "description": "A creamy coconut curry beef bowl served with warm rice and aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Chicken Sushi Roll",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken Tempura", "Rice", "Nori", "Cucumber", "Soy Sauce"],
+    "description": "A crunchy sushi roll filled with crispy chicken tempura and fresh vegetables for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Nacho Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortilla Chips", "Cheese", "Salsa", "Cilantro"],
+    "description": "A hearty nacho-style bowl topped with marinated carne asada, melted cheese, and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Pork Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Pork", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory pork bowl with aromatic garlic, ginger, and a rich soy glaze served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A fiery noodle bowl with tender shrimp tossed in spicy garlic chili sauce and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Udon Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Udon Noodles", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A savory udon bowl topped with sweet teriyaki chicken and fresh scallions for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Beef Salad Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Beef", "Lemongrass", "Lettuce", "Cucumbers", "Fish Sauce"],
+    "description": "A refreshing salad plate topped with lemongrass-marinated beef and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Soft Taco Trio",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Onions",
+      "Cilantro"
+    ],
+    "description": "A trio of smoky chipotle-marinated chicken tacos topped with onions and cilantro for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Salmon Rice Plate",
+    "cuisine": "American",
+    "ingredients": ["Salmon", "Garlic", "Butter", "Rice", "Parsley"],
+    "description": "A rich garlic butter salmon plate served over warm rice with herbs for freshness and balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Pork Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Onions"
+    ],
+    "description": "A sweet and mildly spicy pork stir-fry with crisp vegetables and a glossy chili glaze for flavor.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Shrimp Noodle Bowl",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Shrimp",
+      "Coconut Milk",
+      "Curry Paste",
+      "Noodles",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry noodle bowl with tender shrimp and warm aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Bento Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A bento-style bowl featuring crispy vegetable tempura served with savory rice and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Taco Rice Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Tortillas", "Cilantro", "Onions"],
+    "description": "A hearty rice plate served with marinated carne asada tacos and bright cilantro-lime toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Chicken Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Ginger", "Noodles", "Soy Sauce"],
+    "description": "A savory noodle bowl with aromatic garlic, ginger, and tender chicken tossed in soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Pork Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Pork", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A bold noodle bowl with tender pork tossed in spicy garlic chili sauce and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Shrimp Rice Plate",
+    "cuisine": "Japanese",
+    "ingredients": ["Shrimp", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A sweet and savory teriyaki shrimp plate served over warm rice with scallions for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Beef Vermicelli Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Beef",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing vermicelli bowl topped with lemongrass-marinated beef and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Burrito Bowl",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Rice",
+      "Corn",
+      "Black Beans"
+    ],
+    "description": "A smoky chipotle-marinated chicken bowl with rice, beans, and fresh toppings for balance and heat.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak Skillet",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Garlic", "Butter", "Parsley", "Lemon"],
+    "description": "A rich garlic butter steak skillet served with herbs and a squeeze of lemon for brightness and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Shrimp Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Shrimp",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Rice"
+    ],
+    "description": "A sweet and mildly spicy shrimp stir-fry served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chicken Noodle Plate",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Coconut Milk",
+      "Curry Paste",
+      "Noodles",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry noodle plate with tender chicken and warm aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Donburi Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting donburi bowl topped with crispy shrimp tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Quesadilla Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Cheese", "Tortillas", "Onions", "Cilantro"],
+    "description": "A cheesy quesadilla stuffed with marinated carne asada and sautéed onions for extra richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Salmon Rice Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Salmon", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory salmon bowl with aromatic garlic, ginger, and a rich soy glaze served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Donburi",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold donburi-style bowl with chicken tossed in spicy garlic chili sauce over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Udon Stir-Fry",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Udon Noodles", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A savory udon stir-fry with sweet teriyaki beef and scallions for a comforting noodle dish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Lettuce Wraps",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Shrimp",
+      "Lemongrass",
+      "Lettuce",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "Refreshing lettuce wraps filled with lemongrass-marinated shrimp and crisp vegetables for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Steak Taco Plate",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Steak",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Onions",
+      "Cilantro"
+    ],
+    "description": "Smoky chipotle-marinated steak served in warm tortillas with onions and cilantro for freshness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Pork Stir-Fry",
+    "cuisine": "American",
+    "ingredients": ["Pork", "Garlic", "Butter", "Parsley", "Rice"],
+    "description": "A rich garlic butter pork stir-fry served with herbs and warm rice for a hearty meal.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Rice Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy chicken plate served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Noodle Bowl",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Coconut Milk",
+      "Curry Paste",
+      "Noodles",
+      "Carrots",
+      "Peas"
+    ],
+    "description": "A creamy coconut curry noodle bowl loaded with tender vegetables and warm aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Chicken Bento Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A classic bento plate featuring crispy chicken tempura served with savory rice and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Rice & Bean Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Beans", "Cilantro", "Lime"],
+    "description": "A hearty bowl topped with marinated carne asada, beans, and bright cilantro-lime accents.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Tofu Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Tofu", "Garlic", "Ginger", "Soy Sauce", "Bell Peppers"],
+    "description": "A savory tofu stir-fry with aromatic garlic, ginger, and crisp vegetables tossed in soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold fried rice dish with shrimp tossed in spicy garlic chili sauce and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Bento Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A classic bento-style bowl featuring sweet teriyaki chicken served with warm rice and scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Pork Noodle Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Pork",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing noodle plate topped with lemongrass-marinated pork and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Shrimp Taco Bowl",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Shrimp",
+      "Chipotle Peppers",
+      "Rice",
+      "Corn",
+      "Black Beans"
+    ],
+    "description": "A smoky chipotle-marinated shrimp bowl with rice, beans, and fresh toppings for balance and heat.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak Pasta Bowl",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta bowl with seared steak tossed in garlic butter and finished with fresh herbs for depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Rice"
+    ],
+    "description": "A sweet and mildly spicy chicken stir-fry served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Rice Bowl",
+    "cuisine": "Indian",
+    "ingredients": ["Coconut Milk", "Curry Paste", "Rice", "Carrots", "Peas"],
+    "description": "A creamy coconut curry rice bowl loaded with tender vegetables and warm aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Udon Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Udon Noodles",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting udon plate topped with crispy shrimp tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Taco Rice Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Cilantro", "Onions", "Lime"],
+    "description": "A hearty rice bowl topped with marinated carne asada and bright cilantro-lime toppings for freshness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Beef Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Garlic", "Ginger", "Soy Sauce", "Bell Peppers"],
+    "description": "A savory beef stir-fry with aromatic garlic, ginger, and crisp vegetables tossed in a rich soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Beef Stir-Fry Noodles",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A fiery noodle stir-fry with tender beef tossed in spicy garlic chili sauce and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Salmon Rice Plate",
+    "cuisine": "Japanese",
+    "ingredients": ["Salmon", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A sweet and savory teriyaki salmon plate served over warm rice with scallions for balance and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chicken Vermicelli Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Chicken",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing vermicelli bowl topped with lemongrass-marinated chicken and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Pork Enchilada Plate",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Pork",
+      "Chipotle Peppers",
+      "Enchilada Sauce",
+      "Tortillas",
+      "Cheese"
+    ],
+    "description": "A smoky chipotle pork enchilada plate baked with rich sauce and melted cheese for comfort and heat.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Shrimp Pasta Bowl",
+    "cuisine": "American",
+    "ingredients": ["Shrimp", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta bowl with shrimp sautéed in garlic butter and tossed with herbs for brightness and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Beef Rice Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Beef",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy beef plate served over warm rice with crisp vegetables mixed in for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chicken Stir-Fry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry stir-fry with tender chicken and warm aromatic spices for comfort and richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Udon Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Udon Noodles",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting udon bowl topped with crispy vegetable tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Burrito Rice Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Beans", "Tortilla", "Cilantro"],
+    "description": "A hearty burrito-style plate filled with marinated carne asada, rice, beans, and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Shrimp Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Garlic", "Ginger", "Noodles", "Soy Sauce"],
+    "description": "A savory noodle bowl with aromatic garlic, ginger, and tender shrimp tossed in a rich soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Pork Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": ["Pork", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold fried rice dish with pork tossed in spicy garlic chili sauce and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Shrimp Udon Stir-Fry",
+    "cuisine": "Japanese",
+    "ingredients": ["Shrimp", "Udon Noodles", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A savory udon stir-fry with sweet teriyaki shrimp and scallions for a comforting noodle dish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Beef Rice Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Beef", "Lemongrass", "Garlic", "Fish Sauce", "Rice"],
+    "description": "A fragrant rice plate topped with lemongrass-marinated beef and fresh herbs for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Enchilada Bowl",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Enchilada Sauce",
+      "Rice",
+      "Cheese"
+    ],
+    "description": "A smoky enchilada-style bowl with chipotle-marinated chicken and melted cheese for comfort and heat.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Salmon Skillet",
+    "cuisine": "American",
+    "ingredients": ["Salmon", "Garlic", "Butter", "Parsley", "Lemon"],
+    "description": "A rich garlic butter salmon skillet served with herbs and a squeeze of lemon for brightness and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Pork Rice Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy pork bowl served over warm rice with crisp vegetables mixed in for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Shrimp Stir-Fry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Shrimp",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry stir-fry with tender shrimp and warm aromatic spices for comfort and richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Chicken Rice Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A comforting rice plate topped with crispy chicken tempura and savory sides for balance and texture.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Taco Trio",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortillas", "Cilantro", "Onions", "Lime"],
+    "description": "A trio of tacos filled with marinated carne asada and bright cilantro-lime toppings for freshness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Chicken Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory chicken bowl with aromatic garlic, ginger, and a rich soy glaze served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Noodle Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A fiery noodle stir-fry with shrimp tossed in spicy garlic chili sauce and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Rice Plate",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A sweet and savory teriyaki chicken plate served over warm rice with scallions for balance and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Pork Spring Roll Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Pork",
+      "Lemongrass",
+      "Rice Paper",
+      "Lettuce",
+      "Vermicelli"
+    ],
+    "description": "Fresh spring rolls filled with lemongrass-marinated pork and crisp vegetables for a light refreshing meal.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Steak Burrito Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Chipotle Peppers", "Rice", "Beans", "Tortilla"],
+    "description": "A smoky chipotle-marinated steak burrito served with rice, beans, and fresh toppings for balance and heat.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Chicken Pasta",
+    "cuisine": "American",
+    "ingredients": ["Chicken", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta dish with chicken sautéed in garlic butter and tossed with herbs for brightness and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Shrimp Rice Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Shrimp",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy shrimp plate served over warm rice with crisp vegetables mixed in for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Beef Stir-Fry",
+    "cuisine": "Indian",
+    "ingredients": ["Beef", "Coconut Milk", "Curry Paste", "Garlic", "Onions"],
+    "description": "A creamy coconut curry stir-fry with tender beef and warm aromatic spices for comfort and richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Rice Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A comforting rice bowl topped with crispy vegetable tempura and savory sides for balance and texture.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Soft Taco Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortillas", "Cilantro", "Onions", "Lime"],
+    "description": "A classic taco plate featuring marinated carne asada with bright cilantro-lime toppings for freshness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Pork Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Pork", "Garlic", "Ginger", "Noodles", "Soy Sauce"],
+    "description": "A savory noodle bowl with aromatic garlic, ginger, and tender pork tossed in a rich soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold fried rice dish with chicken tossed in spicy garlic chili sauce and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Donburi Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A savory donburi bowl featuring sweet teriyaki beef served over warm rice with scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Noodle Salad",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Shrimp",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing noodle salad topped with lemongrass-marinated shrimp and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Pork Taco Plate",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Pork",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Onions",
+      "Cilantro"
+    ],
+    "description": "Smoky chipotle-marinated pork served in warm tortillas with onions and cilantro for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Shrimp Skillet",
+    "cuisine": "American",
+    "ingredients": ["Shrimp", "Garlic", "Butter", "Parsley", "Lemon"],
+    "description": "A rich garlic butter shrimp skillet served with herbs and a squeeze of lemon for brightness and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Noodle Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Noodles",
+      "Garlic",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle stir-fry with tender chicken and crisp vegetables tossed together.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Plate",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Coconut Milk",
+      "Curry Paste",
+      "Potatoes",
+      "Carrots",
+      "Peas"
+    ],
+    "description": "A creamy coconut curry plate filled with tender vegetables and warm aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Bento Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A classic bento plate featuring crispy shrimp tempura served with savory rice and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Rice Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Cilantro", "Onions", "Lime"],
+    "description": "A hearty rice bowl topped with marinated carne asada and bright cilantro-lime toppings for freshness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Beef Noodle Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Garlic", "Ginger", "Noodles", "Soy Sauce"],
+    "description": "A savory noodle plate with aromatic garlic, ginger, and tender beef tossed in a rich soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Rice Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold shrimp plate tossed in spicy garlic chili sauce and served over warm steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Sushi Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Rice", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A deconstructed sushi bowl featuring sweet teriyaki chicken over seasoned rice with vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Beef Salad Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Beef", "Lemongrass", "Lettuce", "Cucumbers", "Fish Sauce"],
+    "description": "A refreshing salad bowl topped with lemongrass-marinated beef and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Taco Bowl",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Rice",
+      "Corn",
+      "Black Beans"
+    ],
+    "description": "A smoky chipotle-marinated chicken bowl with rice, beans, and fresh toppings for balance and heat.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak Pasta Plate",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta plate with seared steak tossed in garlic butter and finished with fresh herbs for depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Pork Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Rice"
+    ],
+    "description": "A sweet and mildly spicy pork stir-fry served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chicken Noodles",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Coconut Milk",
+      "Curry Paste",
+      "Noodles",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry noodle dish with tender chicken and warm aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Bento Box",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A classic bento box featuring crispy vegetable tempura served with savory rice and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Beef Noodle Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A fiery noodle plate with tender beef tossed in spicy garlic chili sauce and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Salmon Bento Box",
+    "cuisine": "Japanese",
+    "ingredients": ["Salmon", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A classic bento box featuring sweet teriyaki salmon served with warm rice and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chicken Rice Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Chicken", "Lemongrass", "Garlic", "Fish Sauce", "Rice"],
+    "description": "A fragrant rice plate topped with lemongrass-marinated chicken and fresh herbs for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Shrimp Burrito Bowl",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Shrimp",
+      "Chipotle Peppers",
+      "Rice",
+      "Corn",
+      "Black Beans"
+    ],
+    "description": "A smoky chipotle-marinated shrimp bowl with rice, beans, and fresh toppings for heat and balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Pork Skillet",
+    "cuisine": "American",
+    "ingredients": ["Pork", "Garlic", "Butter", "Parsley", "Lemon"],
+    "description": "A rich garlic butter pork skillet served with herbs and a squeeze of lemon for brightness and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Beef Noodle Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Beef",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Noodles",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle stir-fry with tender beef and crisp vegetables tossed together.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Shrimp Rice Plate",
+    "cuisine": "Indian",
+    "ingredients": ["Shrimp", "Coconut Milk", "Curry Paste", "Garlic", "Rice"],
+    "description": "A creamy coconut curry shrimp plate served with warm rice and aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Chicken Udon Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken Tempura",
+      "Udon Noodles",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting udon bowl topped with crispy chicken tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Enchilada Plate",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Steak",
+      "Enchilada Sauce",
+      "Tortillas",
+      "Cheese",
+      "Onions"
+    ],
+    "description": "A hearty enchilada plate filled with marinated carne asada and baked with melted cheese for richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Tofu Rice Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Tofu", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory tofu bowl with aromatic garlic, ginger, and a rich soy glaze served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A fiery noodle bowl with chicken tossed in spicy garlic chili sauce and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Bento Plate",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A classic bento plate featuring sweet teriyaki beef served with warm rice and scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Rice Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": ["Shrimp", "Lemongrass", "Garlic", "Fish Sauce", "Rice"],
+    "description": "A fragrant rice plate topped with lemongrass-marinated shrimp and fresh herbs for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Soft Taco Plate",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Tortillas",
+      "Onions",
+      "Cilantro"
+    ],
+    "description": "Smoky chipotle-marinated chicken served in warm tortillas with onions and cilantro for freshness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Salmon Pasta Bowl",
+    "cuisine": "American",
+    "ingredients": ["Salmon", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta bowl with salmon sautéed in garlic butter and tossed with herbs for depth and balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Pork Rice Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy pork plate served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Noodle Bowl",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Coconut Milk",
+      "Curry Paste",
+      "Noodles",
+      "Carrots",
+      "Peas"
+    ],
+    "description": "A creamy coconut curry noodle bowl loaded with tender vegetables and warm aromatic spices.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Rice Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A comforting rice plate topped with crispy shrimp tempura and savory sides for balance and texture.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Burrito Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Beans", "Corn", "Cilantro"],
+    "description": "A hearty burrito-style bowl filled with marinated carne asada and bright cilantro-lime toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Chicken Noodles",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Ginger", "Noodles", "Soy Sauce"],
+    "description": "A savory noodle dish with aromatic garlic, ginger, and tender chicken tossed in a rich soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Shrimp",
+      "Garlic",
+      "Chili Paste",
+      "Soy Sauce",
+      "Bell Peppers"
+    ],
+    "description": "A bold shrimp stir-fry tossed in spicy garlic chili sauce with crisp vegetables for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Udon Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Udon Noodles", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A savory udon bowl topped with sweet teriyaki chicken and scallions for a comforting meal.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Beef Spring Roll Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Beef",
+      "Lemongrass",
+      "Rice Paper",
+      "Lettuce",
+      "Vermicelli"
+    ],
+    "description": "Fresh spring rolls filled with lemongrass-marinated beef and crisp vegetables for a refreshing dish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Pork Taco Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Pork", "Chipotle Peppers", "Rice", "Corn", "Black Beans"],
+    "description": "A smoky chipotle-marinated pork bowl with rice, beans, and fresh toppings for heat and balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak Rice Plate",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Garlic", "Butter", "Rice", "Parsley"],
+    "description": "A rich garlic butter steak plate served over warm rice with herbs for brightness and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Noodles",
+      "Garlic",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle bowl with tender chicken and crisp vegetables tossed together.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Shrimp Stir-Fry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Shrimp",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry stir-fry with tender shrimp and warm aromatic spices for comfort and richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Donburi",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting donburi bowl topped with crispy vegetable tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Quesadilla Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Cheese", "Tortillas", "Onions", "Cilantro"],
+    "description": "A cheesy quesadilla stuffed with marinated carne asada and sautéed onions for extra richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Salmon Rice Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Salmon", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory salmon plate with aromatic garlic, ginger, and a rich soy glaze served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Beef Rice Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold beef plate tossed in spicy garlic chili sauce and served over warm steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Salmon Udon Stir-Fry",
+    "cuisine": "Japanese",
+    "ingredients": ["Salmon", "Udon Noodles", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A savory udon stir-fry with sweet teriyaki salmon and scallions for a comforting noodle dish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chicken Vermicelli Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Chicken",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing vermicelli plate topped with lemongrass-marinated chicken and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Steak Taco Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Chipotle Peppers", "Rice", "Corn", "Black Beans"],
+    "description": "A smoky chipotle-marinated steak bowl with rice, beans, and fresh toppings for heat and balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Shrimp Pasta Plate",
+    "cuisine": "American",
+    "ingredients": ["Shrimp", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta plate with shrimp sautéed in garlic butter and tossed with herbs for brightness and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Rice"
+    ],
+    "description": "A sweet and mildly spicy chicken stir-fry served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Rice Plate",
+    "cuisine": "Indian",
+    "ingredients": ["Coconut Milk", "Curry Paste", "Rice", "Carrots", "Peas"],
+    "description": "A creamy coconut curry rice plate loaded with tender vegetables and warm aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Bento Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A classic bento-style bowl featuring crispy shrimp tempura served with savory rice and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Taco Rice Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Cilantro", "Onions", "Lime"],
+    "description": "A hearty rice plate topped with marinated carne asada and bright cilantro-lime toppings for freshness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Pork Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Pork", "Garlic", "Ginger", "Soy Sauce", "Bell Peppers"],
+    "description": "A savory pork stir-fry with aromatic garlic, ginger, and crisp vegetables tossed in a rich soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Noodle Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A fiery noodle plate with shrimp tossed in spicy garlic chili sauce and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Chicken Donburi Plate",
+    "cuisine": "Japanese",
+    "ingredients": ["Chicken", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A savory donburi plate featuring sweet teriyaki chicken served over warm rice with scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Pork Noodle Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Pork",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing noodle bowl topped with lemongrass-marinated pork and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Shrimp Enchilada Plate",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Shrimp",
+      "Chipotle Peppers",
+      "Enchilada Sauce",
+      "Tortillas",
+      "Cheese"
+    ],
+    "description": "A smoky chipotle shrimp enchilada plate baked with rich sauce and melted cheese for comfort and heat.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Steak Rice Bowl",
+    "cuisine": "American",
+    "ingredients": ["Steak", "Garlic", "Butter", "Rice", "Parsley"],
+    "description": "A rich garlic butter steak bowl served over warm rice with herbs for brightness and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Chicken Noodle Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Sweet Chili Sauce",
+      "Noodles",
+      "Garlic",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle stir-fry with tender chicken and crisp vegetables tossed together.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Beef Rice Plate",
+    "cuisine": "Indian",
+    "ingredients": ["Beef", "Coconut Milk", "Curry Paste", "Garlic", "Rice"],
+    "description": "A creamy coconut curry beef plate served with warm rice and aromatic spices for comfort and richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Bento Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A classic bento plate topped with crispy vegetable tempura and savory sides for balance and texture.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Taco Trio Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortillas", "Cilantro", "Onions", "Lime"],
+    "description": "A trio of tacos filled with marinated carne asada and bright cilantro-lime toppings for freshness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Tofu Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Tofu", "Garlic", "Ginger", "Soy Sauce", "Rice"],
+    "description": "A savory tofu bowl with aromatic garlic, ginger, and a rich soy glaze served over warm rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Chicken",
+      "Garlic",
+      "Chili Paste",
+      "Soy Sauce",
+      "Bell Peppers"
+    ],
+    "description": "A bold chicken stir-fry tossed in spicy garlic chili sauce with crisp vegetables for balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Sushi Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Rice", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A deconstructed sushi bowl featuring sweet teriyaki beef over seasoned rice with vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Salad Plate",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Shrimp",
+      "Lemongrass",
+      "Lettuce",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing salad plate topped with lemongrass-marinated shrimp and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Burrito Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Chicken", "Chipotle Peppers", "Rice", "Beans", "Tortilla"],
+    "description": "A smoky chipotle-marinated chicken burrito served with rice, beans, and fresh toppings for heat and balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Pork Pasta Bowl",
+    "cuisine": "American",
+    "ingredients": ["Pork", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta bowl with pork sautéed in garlic butter and tossed with herbs for brightness and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Shrimp Rice Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Shrimp",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Rice",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy shrimp bowl served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chicken Stir-Fry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Chicken",
+      "Coconut Milk",
+      "Curry Paste",
+      "Garlic",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry stir-fry with tender chicken and warm aromatic spices for comfort and richness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Udon Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Udon Noodles",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting udon plate topped with crispy shrimp tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Rice & Bean Plate",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Beans", "Cilantro", "Lime"],
+    "description": "A hearty plate topped with marinated carne asada, beans, and bright cilantro-lime accents.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Beef Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Beef", "Garlic", "Ginger", "Noodles", "Soy Sauce"],
+    "description": "A savory noodle bowl with aromatic garlic, ginger, and tender beef tossed in a rich soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Shrimp Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold fried rice dish with shrimp tossed in spicy garlic chili sauce and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Salmon Rice Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Salmon", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A sweet and savory teriyaki salmon bowl served over warm rice with scallions for balance and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Chicken Noodle Salad",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Chicken",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing noodle salad topped with lemongrass-marinated chicken and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Pork Burrito Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Pork", "Chipotle Peppers", "Rice", "Corn", "Black Beans"],
+    "description": "A smoky chipotle-marinated pork bowl with rice, beans, and fresh toppings for heat and balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Chicken Skillet",
+    "cuisine": "American",
+    "ingredients": ["Chicken", "Garlic", "Butter", "Parsley", "Lemon"],
+    "description": "A rich garlic butter chicken skillet finished with herbs and a squeeze of lemon for brightness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Beef Stir-Fry Bowl",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Beef",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Rice"
+    ],
+    "description": "A sweet and mildly spicy beef stir-fry served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Shrimp Noodle Plate",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Shrimp",
+      "Coconut Milk",
+      "Curry Paste",
+      "Noodles",
+      "Onions"
+    ],
+    "description": "A creamy coconut curry noodle plate with tender shrimp and warm aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Vegetable Rice Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Tempura Vegetables",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A comforting rice plate topped with crispy vegetable tempura and savory sides for balance and texture.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Soft Taco Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Tortillas", "Cilantro", "Onions", "Lime"],
+    "description": "A hearty taco-style bowl featuring marinated carne asada and bright cilantro-lime toppings for freshness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Salmon Noodle Bowl",
+    "cuisine": "Chinese",
+    "ingredients": ["Salmon", "Garlic", "Ginger", "Noodles", "Soy Sauce"],
+    "description": "A savory noodle bowl with aromatic garlic, ginger, and tender salmon tossed in a rich soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Pork Noodle Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Pork", "Noodles", "Garlic", "Chili Paste", "Soy Sauce"],
+    "description": "A fiery noodle stir-fry with tender pork tossed in spicy garlic chili sauce and crisp vegetables.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Shrimp Bento Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Shrimp", "Soy Sauce", "Sugar", "Ginger", "Rice"],
+    "description": "A classic bento-style bowl featuring sweet teriyaki shrimp served with warm rice and scallions.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Beef Noodle Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Beef",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing noodle bowl topped with lemongrass-marinated beef and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Chicken Enchilada Bowl",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "Chicken",
+      "Chipotle Peppers",
+      "Enchilada Sauce",
+      "Rice",
+      "Cheese"
+    ],
+    "description": "A smoky enchilada-style bowl with chipotle-marinated chicken and melted cheese for comfort and heat.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Salmon Rice Plate",
+    "cuisine": "American",
+    "ingredients": ["Salmon", "Garlic", "Butter", "Rice", "Parsley"],
+    "description": "A rich garlic butter salmon plate served over warm rice with herbs for brightness and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Pork Noodle Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Pork",
+      "Sweet Chili Sauce",
+      "Noodles",
+      "Garlic",
+      "Bell Peppers"
+    ],
+    "description": "A sweet and mildly spicy noodle plate with tender pork and crisp vegetables tossed together.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Vegetable Stir-Fry",
+    "cuisine": "Indian",
+    "ingredients": ["Coconut Milk", "Curry Paste", "Carrots", "Peas", "Onions"],
+    "description": "A creamy coconut curry stir-fry loaded with tender vegetables and warm aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Chicken Donburi Bowl",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Chicken Tempura",
+      "Rice",
+      "Dashi",
+      "Soy Sauce",
+      "Green Onions"
+    ],
+    "description": "A comforting donburi bowl topped with crispy chicken tempura and a light savory broth drizzle.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Burrito Rice Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Beans", "Corn", "Cilantro"],
+    "description": "A hearty burrito-style bowl filled with marinated carne asada and bright cilantro-lime toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Shrimp Noodles",
+    "cuisine": "Chinese",
+    "ingredients": ["Shrimp", "Garlic", "Ginger", "Noodles", "Soy Sauce"],
+    "description": "A savory noodle dish with aromatic garlic, ginger, and tender shrimp tossed in a rich soy glaze.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Spicy Garlic Chicken Rice Plate",
+    "cuisine": "Chinese",
+    "ingredients": ["Chicken", "Garlic", "Chili Paste", "Soy Sauce", "Rice"],
+    "description": "A bold chicken plate tossed in spicy garlic chili sauce and served over warm steamed rice.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Teriyaki Beef Noodle Bowl",
+    "cuisine": "Japanese",
+    "ingredients": ["Beef", "Udon Noodles", "Soy Sauce", "Sugar", "Ginger"],
+    "description": "A savory noodle bowl topped with sweet teriyaki beef and scallions for a comforting finish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Lemongrass Shrimp Vermicelli Bowl",
+    "cuisine": "Vietnamese",
+    "ingredients": [
+      "Shrimp",
+      "Lemongrass",
+      "Vermicelli",
+      "Cucumbers",
+      "Fish Sauce"
+    ],
+    "description": "A refreshing vermicelli bowl topped with lemongrass-marinated shrimp and crisp vegetables with herbs.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Chipotle Steak Rice Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Chipotle Peppers", "Rice", "Corn", "Black Beans"],
+    "description": "A smoky chipotle-marinated steak bowl with rice, beans, and fresh toppings for heat and balance.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Butter Pork Pasta Plate",
+    "cuisine": "American",
+    "ingredients": ["Pork", "Garlic", "Butter", "Pasta", "Parsley"],
+    "description": "A rich pasta plate with pork sautéed in garlic butter and tossed with herbs for brightness and depth.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Sweet Chili Shrimp Stir-Fry Plate",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "Shrimp",
+      "Sweet Chili Sauce",
+      "Garlic",
+      "Bell Peppers",
+      "Rice"
+    ],
+    "description": "A sweet and mildly spicy shrimp stir-fry served over warm rice with crisp vegetables mixed in.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Coconut Curry Chicken Rice Plate",
+    "cuisine": "Indian",
+    "ingredients": ["Chicken", "Coconut Milk", "Curry Paste", "Rice", "Onions"],
+    "description": "A creamy coconut curry chicken plate served with warm rice and aromatic spices for comfort.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Tempura Shrimp Bento Plate",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Shrimp Tempura",
+      "Rice",
+      "Soy Sauce",
+      "Pickled Ginger",
+      "Green Onions"
+    ],
+    "description": "A classic bento plate featuring crispy shrimp tempura served with savory rice and fresh toppings.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Carne Asada Taco Rice Bowl",
+    "cuisine": "Mexican",
+    "ingredients": ["Steak", "Rice", "Cilantro", "Onions", "Lime"],
+    "description": "A hearty rice bowl topped with marinated carne asada and bright cilantro-lime toppings for freshness.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  },
+  {
+    "title": "Garlic Ginger Vegetable Stir-Fry",
+    "cuisine": "Chinese",
+    "ingredients": ["Broccoli", "Carrots", "Garlic", "Ginger", "Soy Sauce"],
+    "description": "A savory vegetable stir-fry with aromatic garlic, ginger, and a rich soy glaze for a light finish.",
+    "createdAt": "2026-02-20T23:15:00.000Z",
+    "updatedAt": "2026-02-20T23:15:00.000Z"
+  }
+]

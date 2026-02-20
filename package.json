@@ -1,24 +1,28 @@
 {
-  "name": "nodeexpressmongoes6",
+  "name": "pantrypal",
   "version": "1.0.0",
-  "description": "Example",
+  "description": "Pantry Pal app",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node node_modules/nodemon/bin/nodemon.js backend.js",
+    "dev": "node node_modules/nodemon/bin/nodemon.js backend.js",
+    "start": "node backend.js",
+    "seed:db": "node scripts/seedDb.js",
+    "mongo:up": "docker compose up -d mongo",
+    "mongo:down": "docker compose down",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/notrickhere/NODEEXPRESSES6_apartmentlisting.git"
+    "url": "git+ssh://git@github.com/notrickhere/PantryPal.git"
   },
   "keywords": [],
   "author": "Ricky Lee",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/notrickhere/NODEEXPRESSES6_apartmentlisting/issues"
+    "url": "https://github.com/notrickhere/PantryPal/issues"
   },
-  "homepage": "https://github.com/notrickhere/NODEEXPRESSES6_apartmentlisting#readme",
+  "homepage": "https://github.com/notrickhere/PantryPal#readme",
   "dependencies": {
     "express": "^5.2.1",
     "mongodb": "^7.1.0",
