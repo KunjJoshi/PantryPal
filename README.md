@@ -31,7 +31,7 @@ The app is designed to reduce food waste, improve meal planning, and make it eas
 - Missing 1-2 ingredients
 - Missing several ingredients
 - Add, edit, and delete recipes
-- Pantry Health concept (planned): indicates how many recipes can be cooked in the next 7 days
+- Pantry Healthbar
 
 ## User Personas
 
@@ -204,11 +204,11 @@ npm run dev
 
 - [Figma Mockups](https://www.figma.com/design/fQcS5LSeXn5y0WDAYr943l/PantryPal?node-id=0-1&t=mJRrqOvgDaDxhZ7Z-1)
 
+## Screenshots
+
 ![PantryPal Home Mockup](images/fig_home.png)
 
 ![PantryPal Recipe Mockup](images/fig_recipe.png)
-
-## Screenshot
 
 ### Home
 
