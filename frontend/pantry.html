@@ -4,21 +4,78 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>PantryPal Pantry</title>
+  <link rel="icon" type="image/png" href="images/fridge.png" />
   <link
     href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
     rel="stylesheet"
   />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+    rel="stylesheet"
+  />
   <link rel="stylesheet" href="css/main.css" />
+  <link rel="stylesheet" href="css/navbar.css" />
 </head>
 <body>
+  <nav class="navbar navbar-expand-lg pp-navbar">
+    <div class="container">
+      <a class="pp-brand" href="index.html">
+        <img src="images/fridge.png" alt="PantryPal logo" />
+        <span>PantryPal</span>
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#mainNav"
+        aria-controls="mainNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link pp-link" href="index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link pp-link active" href="pantry.html">Pantry</a></li>
+          <li class="nav-item"><a class="nav-link pp-link" href="recipes.html">Recipes</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
   <main class="container py-4">
     <div class="d-flex justify-content-between align-items-center mb-4">
       <h1 class="h3 m-0">My Pantry</h1>
-      <a class="btn btn-outline-secondary" href="index.html">Home</a>
+      <div class="text-muted small" data-health-bar>Pantry Health: loading...</div>
     </div>
+
+    <div class="card p-3 mb-4">
+      <h2 class="h5">Add Pantry Item</h2>
+      <form id="addPantryForm" class="row g-2">
+        <div class="col-md-5">
+          <input class="form-control" name="name" placeholder="Item name" required />
+        </div>
+        <div class="col-md-3">
+          <input class="form-control" name="quantity" type="number" min="1" placeholder="Quantity" />
+        </div>
+        <div class="col-md-3">
+          <input class="form-control" name="expiresAt" type="date" />
+        </div>
+        <div class="col-md-1 d-grid">
+          <button class="btn btn-primary" type="submit">Add</button>
+        </div>
+      </form>
+    </div>
+
     <ul id="pantryList" class="list-group"></ul>
   </main>
+  <footer class="pp-footer">
+    PantryPal | &copy; 2026 Ricky Lee, Tarun Badarvada | Licensed under MIT
+  </footer>
 
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script type="module" src="js/health.js"></script>
   <script type="module" src="js/pantry.js"></script>
 </body>
 </html>

@@ -1,10 +1,6 @@
-body {
+body.home-page {
   margin: 0;
-  height: 100vh;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  min-height: 100vh;
 
   background: linear-gradient(
     135deg,
@@ -23,12 +19,14 @@ body {
   100% { background-position: 0% 50%; }
 }
 
-.main-container {
+body.home-page .main-container {
   width: 100%;
   max-width: 1000px;
+  margin: 0 auto;
+  padding: 3rem 1rem 2rem;
 }
 
-.title {
+body.home-page .title {
   font-family: 'Press Start 2P', cursive;
   font-size: 36px;
   color: #4fd1c5;
@@ -38,7 +36,7 @@ body {
     0 0 20px #2fa6a1;
 }
 
-.menu-card {
+body.home-page .menu-card {
   display: inline-block;
   padding: 30px;
 
@@ -60,22 +58,23 @@ body {
               box-shadow 0.25s ease;
 }
 
-.menu-card:hover {
+body.home-page .menu-card:hover {
   transform: translateY(-8px);
   box-shadow: 0 12px 30px rgba(0,0,0,0.5);
 }
 
-.menu-img {
+body.home-page .menu-img {
   height: 150px;
   margin-bottom: 15px;
 }
 
-.menu-card p {
+body.home-page .menu-card p {
   font-family: 'Press Start 2P', cursive;
   font-size: 12px;
 }
 
-.health-bar {
+body.home-page .health-bar {
   font-size: 28px;
+  color: #ffffff;
 }
 

@@ -1,0 +1,51 @@
+.pp-navbar {
+  background: #0b2530;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.pp-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: #4fd1c5;
+  font-family: "Press Start 2P", cursive;
+  font-size: 0.8rem;
+  text-decoration: none;
+}
+
+.pp-brand img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.pp-brand:hover {
+  color: #7be3d9;
+}
+
+.pp-link {
+  color: #d7f7f3;
+}
+
+.pp-link:hover,
+.pp-link.active {
+  color: #4fd1c5;
+}
+
+.pp-navbar .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.pp-navbar .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28215,247,243,0.95%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.pp-footer {
+  margin-top: 2rem;
+  padding: 0.85rem 1rem;
+  text-align: center;
+  color: #d7f7f3;
+  background: #0b2530;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  font-size: 0.9rem;
+}
