@@ -3,15 +3,32 @@ import { api } from "./api.js";
 const container = document.getElementById("recipeContainer");
 const searchInput = document.getElementById("searchInput");
 const cuisineButtons = document.querySelectorAll(".cuisine-btn");
+const pageInfo = document.getElementById("pageInfo");
+const prevPageBtn = document.getElementById("prevPageBtn");
+const nextPageBtn = document.getElementById("nextPageBtn");
 
 let currentCuisine = "";
+let currentPage = 1;
+const pageLimit = 9;
+let totalPages = 1;
 
 const loadRecipes = async () => {
   const search = searchInput.value;
 
-  const url = `/api/recipes?cuisine=${currentCuisine}&search=${search}`;
+  const url = `/api/recipes?cuisine=${encodeURIComponent(
+    currentCuisine
+  )}&search=${encodeURIComponent(search)}&page=${currentPage}&limit=${pageLimit}`;
 
-  const recipes = await api.get(url);
+  const result = await api.get(url);
+  const recipes = Array.isArray(result) ? result : result.items || [];
+  const pagination = result.pagination || {
+    page: currentPage,
+    totalPages: 1,
+  };
+
+  currentPage = pagination.page || 1;
+  totalPages = pagination.totalPages || 1;
+  updatePaginationControls();
   renderRecipes(recipes);
 };
 
@@ -55,9 +72,16 @@ const badgeClass = (status) => {
   return "missing";
 };
 
+const updatePaginationControls = () => {
+  pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
+  prevPageBtn.disabled = currentPage <= 1;
+  nextPageBtn.disabled = currentPage >= totalPages;
+};
+
 window.deleteRecipe = async (id) => {
   await api.delete(`/api/recipes/${id}`);
-  loadRecipes();
+  await loadRecipes();
+  document.dispatchEvent(new Event("recipes:changed"));
 };
 
 document
@@ -79,17 +103,35 @@ document
     };
 
     await api.post("/api/recipes", recipe);
+    currentPage = 1;
     e.target.reset();
-    loadRecipes();
+    await loadRecipes();
+    document.dispatchEvent(new Event("recipes:changed"));
   });
 
-searchInput.addEventListener("input", loadRecipes);
+searchInput.addEventListener("input", () => {
+  currentPage = 1;
+  loadRecipes();
+});
 
 cuisineButtons.forEach((btn) =>
   btn.addEventListener("click", () => {
     currentCuisine = btn.dataset.cuisine;
+    currentPage = 1;
     loadRecipes();
   })
 );
+
+prevPageBtn.addEventListener("click", () => {
+  if (currentPage <= 1) return;
+  currentPage -= 1;
+  loadRecipes();
+});
+
+nextPageBtn.addEventListener("click", () => {
+  if (currentPage >= totalPages) return;
+  currentPage += 1;
+  loadRecipes();
+});
 
 loadRecipes();
