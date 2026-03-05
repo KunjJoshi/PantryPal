@@ -37,9 +37,10 @@ router.post("/", async (req, res) => {
     };
 
     const result = await pantryCollection.insertOne(item);
-    const created = await pantryCollection.findOne({ _id: result.insertedId });
+    //const created = await pantryCollection.findOne({ _id: result.insertedId });
 
-    res.status(201).json(toPublicDoc(created));
+
+    res.status(201).json(toPublicDoc({...item, _id: result.insertedId}));
   } catch (error) {
     console.error("Failed to create pantry item:", error);
     res.status(500).json({ error: "Failed to create pantry item" });
